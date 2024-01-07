@@ -1,0 +1,253 @@
+:root {
+  --page-background: #f3f6f8;
+  --card-background: #ffffff;
+  --text-color: #000;
+  --details-color: #333333;
+  --primary-button: #0073b1;
+  --secondary-button: #d6dadf;
+  --border-color: #d3d3d3;
+  --white: #fff;
+  --notification-red: #ff4136;
+  --sky-blue: #6bb4d6;
+  --pink: #f36;
+  --blue: #0073b1;
+  --creamy: #fdf5e6;
+
+  --post-text-size: 1.15rem;
+  --heading-font-size: 0.75rem;
+  --sub-details-size: 0.75rem;
+  --card-border-radius: 1rem;
+}
+
+.user-profile-container {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-evenly;
+  height: fit-content;
+  background-color: var(--page-background);
+  padding: 1rem;
+  padding-top: 5rem !important;
+}
+
+.user-profile-details {
+  width: 80%;
+  height: 100%;
+  padding: 1rem;
+}
+
+.other-people-container {
+  width: 20%;
+  height: 100%;
+  margin-top: 1rem;
+}
+
+.user-profile-header-flex {
+  display: flex;
+  width: 100%;
+  align-items: stretch;
+  justify-content: space-between;
+}
+
+.card {
+  background-color: var(--card-background);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  border: 1px solid var(--border-color);
+  border-radius: var(--card-border-radius);
+  margin-bottom: 20px;
+  padding: 1rem;
+}
+
+.user-profile-header {
+  width: fit-content;
+}
+
+.user-profile-img {
+  width: 100%;
+  padding: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.user-profile-img img {
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+  border: 1px solid var(--border-color);
+}
+
+.user-profile-name {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.user-profile-username {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.user-profile-realname {
+  font-size: 0.75rem;
+}
+
+.user-profile-bio-card {
+  flex: 1;
+  margin-left: 20px;
+}
+
+.user-profile-adjectives b {
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+
+.user-profile-adjectives {
+  font-size: 0.75rem;
+}
+
+.user-profile-bio-header,
+.user-profile-achievement-header,
+.user-progress-header {
+  font-size: 2rem;
+  width: 100%;
+  padding-left: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.user-profile-bio-content {
+  font-size: 1rem;
+  padding: 1rem;
+}
+
+.other-people-header {
+  font-size: 1.5rem;
+  border-bottom: 1px solid var(--border-color);
+  text-align: center;
+}
+
+.other-people-list {
+  height: 20rem;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.other-people-div {
+  margin: 1rem;
+  display: flex;
+  border-bottom: 1px solid var(--border-color);
+  padding: 1rem;
+}
+
+.avatar-section img {
+  width: 2rem;
+  border-radius: 50%;
+  border: 1px solid var(--border-color);
+  margin: 0.75rem;
+}
+
+a {
+  color: var(--details-color);
+  text-decoration: none;
+}
+
+.name-section {
+  font-size: 1rem;
+}
+
+.details-section {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.detail-section {
+  font-size: 0.5rem;
+  display: none;
+}
+
+.edit-pencil {
+  font-size: 1.5rem;
+}
+
+.user-profile-adhievement-edit-btns {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  font-size: 1.5rem;
+  width: 10%;
+}
+
+.user-profile-achievement-content {
+  width: 100%;
+  border: 1px solid var(--border-color);
+  border-radius: var(--card-border-radius);
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  overflow-x: scroll;
+}
+
+.user-profile-achievement-content img {
+  width: 20rem;
+  height: 15rem;
+  margin: 1rem;
+  border: 1px solid var(--border-color);
+}
+
+.charts-div {
+  width: 50%;
+}
+
+.user-progress-content {
+  display: flex;
+  padding: 1rem;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+@media screen and (max-width: 768px) {
+  .user-profile-container {
+    padding: 0 !important;
+    padding-top: 5rem !important;
+  }
+
+  .user-profile-details {
+    padding: 0 !important;
+    width: 100% !important;
+  }
+
+  .other-people-container {
+    display: none;
+  }
+
+  .user-profile-header {
+    width: 100% !important;
+  }
+
+  .user-profile-header-flex {
+    align-items: center !important;
+    flex-direction: column;
+  }
+
+  .user-profile-bio-card {
+    margin-left: 0 !important;
+    width: 100%;
+  }
+
+  .user-profile-bio-content {
+    font-size: 0.75rem !important;
+    padding: 0.5rem !important;
+  }
+
+  .user-progress-card {
+    display: none;
+  }
+}

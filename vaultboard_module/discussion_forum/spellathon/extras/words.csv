@@ -1,0 +1,220 @@
+id,word,meaning,relevance
+1,Democracy,"System of government by the people, for the people",1
+2,Galaxy,"A system of stars, gas, and dust held together by gravity",2
+3,Biology,The study of living organisms,3
+4,Bicycle,Human-powered vehicle with two wheels,1
+5,Thunder,Sound caused by lightning,2
+6,Soccer,Game played with a round ball and two teams,3
+7,Melody,Pleasant sequence of musical notes,1
+8,Pyramid,Structure with a triangular base and sloping sides,2
+9,Rainbow,Spectrum of colors seen in the sky after rain,3
+10,Telescope,Optical instrument to view distant objects,1
+11,Library,Place housing books and other materials for reading,2
+12,Submarine,Underwater vessel capable of independent operation,3
+13,Detective,"Investigator, solves crimes and mysteries",1
+14,Symphony,Elaborate musical composition for an orchestra,2
+15,Sculpture,Art of creating three-dimensional forms,3
+16,Climate,Weather conditions prevailing in an area,1
+17,Volcano,Mountain or hill with a vent to the Earth's surface,2
+18,Aquarium,Tank or pool for keeping fish and water animals,3
+19,Adventure,Exciting or unusual experience,1
+20,Dessert,Sweet dish served at the end of a meal,2
+21,Universe,"All space, matter, and energy in existence",3
+22,Astronaut,A person trained to travel and work in space,1
+23,Butterfly,Insect with colorful wings and a transformative life cycle,2
+24,Elephant,"Large, intelligent mammal with a trunk",3
+25,Friendship,Close relationship between friends,1
+26,Waterfall,A cascade of water falling from a height,2
+27,Adventure,Exciting or daring experience or journey,3
+28,Rainbow,Multicolored arc seen in the sky after rain,1
+29,Lightning,Flash of bright light caused by electrical discharge,2
+30,Knowledge,"Information, skills, and understanding acquired through learning",3
+31,Chameleon,Lizard capable of changing color to blend with surroundings,1
+32,Compassion,Feeling of empathy and concern for others,2
+33,Universe,"All space, matter, and energy in existence",3
+34,Whimsical,Playfully quaint or fanciful,1
+35,Zest,Enthusiastic and energetic enjoyment,2
+36,Celebrate,To observe or commemorate with festivities,3
+37,Harmony,State of agreement and peaceful coexistence,1
+38,Vibrant,"Full of life, bright, and intense",2
+39,Serendipity,Finding something valuable by chance,3
+40,Enchanting,Delightfully charming or captivating,1
+41,Confetti,Small pieces of colored paper thrown in celebration,2
+42,Symphony,Elaborate musical composition for orchestra,3
+43,Tornado,"Violently rotating column of air, forming a funnel cloud",1
+44,Happiness,State of feeling joy and contentment,2
+45,Octopus,Marine mollusk with eight arms and a soft body,3
+46,Adventure,Exciting or daring experience or journey,1
+47,Dinosaur,Extinct reptiles that lived millions of years ago,2
+48,Treasure,Valuable items or wealth hidden or kept safe,3
+49,Sunrise,The moment when the sun rises above the horizon,1
+50,Horizon,The apparent line where the sky meets the earth,2
+51,Wisdom,Deep understanding and knowledge gained through experience,3
+52,Harvest,Gathering or reaping of crops for agricultural purposes,1
+53,Wilderness,"Uncultivated, uninhabited, and natural environment",2
+54,Jovial,"Cheerful, happy, and full of good humor",3
+55,Enthusiasm,Intense excitement and eagerness,1
+56,Dragonfly,Insect with a slender body and transparent wings,2
+57,Adventure,Exciting or daring experience or journey,3
+58,Symphony,Elaborate musical composition for orchestra,1
+59,Gravity,Force that attracts objects towards each other,2
+60,Blossom,Flower or to produce flowers,3
+61,Fragrance,"Pleasant, sweet, or aromatic odor",1
+62,Imagination,Ability to create mental images and ideas,2
+63,Curiosity,Eager desire to learn or know more about something,3
+64,Integrity,Adherence to moral and ethical principles,1
+65,Serenity,"State of being calm, peaceful, and untroubled",2
+66,Giggling,To laugh in a silly or playful way,3
+67,Wilderness,"Uncultivated, uninhabited, and natural environment",1
+68,Symphony,Elaborate musical composition for orchestra,2
+69,Adventure,Exciting or daring experience or journey,3
+70,Charming,Delightfully attractive or pleasing,1
+71,Whimsy,Playfully quaint or fanciful behavior,2
+72,Courage,The ability to face difficulty or danger with bravery,3
+73,Starlight,Light from stars,1
+74,Glisten,To shine with a sparkling or reflective light,2
+75,Gleeful,Full of joy and merriment,3
+76,Sunrise,The moment when the sun rises above the horizon,1
+77,Mysterious,Difficult to understand or explain,2
+78,Curious,Eager to learn or know about something,3
+79,Admiration,A feeling of deep respect and approval,1
+80,Jubilation,A feeling of great happiness and celebration,2
+81,Luminous,Emitting light or full of light,3
+82,Harmony,State of agreement and peaceful coexistence,1
+83,Excitement,The feeling of enthusiasm and eagerness,2
+84,Captivate,To attract and hold the interest and attention of someone,3
+85,Intrigue,To arouse curiosity or interest,1
+86,Dazzling,"Extremely bright, impressive, or attractive",2
+87,Dreamy,Having a magical or unreal quality,3
+88,Enthusiasm,Intense excitement and eagerness,1
+89,Amusement,The state of experiencing enjoyment or pleasure,2
+90,Sparkling,"To shine with small, bright flashes of light",3
+91,Lullaby,A soothing song to put someone to sleep,1
+92,Graceful,Elegant and smooth in movement,2
+93,Wondrous,"Remarkable, extraordinary, or amazing",3
+94,Captivating,Attracting and holding the attention of someone,1
+95,Effervescence,Bubbling or giving off small bubbles of gas,2
+96,Glimmer,"To shine with a faint, wavering light",3
+97,Dazzle,To impress or astonish with brilliance or beauty,1
+98,Swoop,To descend rapidly and seize with a sweeping motion,2
+99,Elation,A feeling of great joy or pride,3
+100,Brilliance,Intense brightness or radiance,1
+101,Twilight,"The soft, diffused light from the sky when the sun is below the horizon",2
+102,Jubilant,Filled with joy and celebration,3
+103,Incandescent,Emitting light due to high temperature,1
+104,Amazement,A feeling of wonder and astonishment,2
+105,Fascination,The state of being intensely interested or attracted,3
+106,Tranquility,Calmness and peacefulness,1
+107,Enchanting,Delightfully charming or captivating,2
+108,Enthralling,Captivating and holding the attention,3
+109,Lull,To soothe someone to sleep or rest,1
+110,Wander,To travel aimlessly or explore without a specific destination,2
+111,Glitter,"To shine with small, bright flashes of light",3
+112,Radiance,A bright or warm glow,1
+113,Jovial,Cheerful and full of good humor,2
+114,Mesmerize,To capture someone's attention completely,3
+115,Euphoria,A feeling of intense happiness and excitement,1
+116,Cheerful,Full of cheer and happiness,2
+117,Bubbly,Full of lively or excited activity,3
+118,Delightful,Highly pleasing and enjoyable,1
+119,Grace,Elegance and beauty in movement or appearance,2
+120,Sizzle,To make a hissing sound like that of frying food,3
+121,Exhilarating,"Making one feel very happy, animated, or elated",1
+122,Radiant,Shining brightly and emitting light,2
+123,Wonderland,"A place of fantasy, magic, and fascination",3
+124,Inspire,To fill someone with the urge or ability to do or feel something,1
+125,Freedom,"The power or right to act, speak, or think as one wants",2
+126,Emerge,To come forth or become visible,3
+127,Melody,Pleasant sequence of musical notes,1
+128,Astonishment,A feeling of great surprise and wonder,2
+129,Blissful,Full of joy and happiness,3
+130,Glimpse,A quick look or glance,1
+131,Illumination,The act of lighting up or brightening with light,2
+132,Gaze,To look steadily and intently,3
+133,Petrichor,The pleasant smell that follows the first rain after a dry spell,1
+134,Curiosity,Eagerness to learn or know more about something,2
+135,Ponder,To think about deeply and reflect,3
+136,Sunshine,"Bright, direct sunlight",1
+137,Friendship,Close relationship between friends,2
+138,Fascinate,To attract and hold the interest of someone,3
+139,Spectacular,Remarkable and impressive in a dramatic or eye-catching way,1
+140,Mesmerizing,Holding the attention and interest of someone in a captivating way,2
+141,Serene,"Calm, peaceful, and untroubled",3
+142,Playful,Full of fun and cheerful activity,1
+143,Wonder,A feeling of surprise and admiration,2
+144,Zestful,Full of energy and enthusiasm,3
+145,Harmony,The combination of different elements into a pleasing whole,1
+146,Marvel,Something that causes wonder or astonishment,2
+147,Flicker,"To burn or shine with an unsteady, wavering light",3
+148,Palimpsest,A manuscript with layers of writing and erasure,1
+149,Bucolic,Relating to the pleasant aspects of the countryside,2
+150,Elixir,A magical or medicinal potion,3
+151,Nebula,A cloud of gas and dust in space,1
+152,Diaphanous,"Delicate, translucent, and light",2
+153,Zephyr,"A gentle, mild breeze",3
+154,Aplomb,Self-confidence and poise,1
+155,Dulcet,Sweet and soothing,2
+156,Supine,Lying face up or inactive,3
+157,Effervescent,Bubbling or giving off small bubbles of gas,1
+158,Luminous,Emitting light or full of light,2
+159,Quiescent,"Quiet, still, or inactive",3
+160,Serendipity,Finding something valuable by chance,1
+161,Mellifluous,Pleasantly smooth and musical,2
+162,Labyrinthine,Intricate and confusing like a labyrinth,3
+163,Incandescent,Emitting light due to high temperature,1
+164,Ephemeral,Lasting for a very short time,2
+165,Evanescent,Vanishing or fading away like vapor,3
+166,Susurrus,"A soft, murmuring or rustling sound",1
+167,Euphonious,"Pleasing to the ear, melodious",2
+168,Scintillating,Sparkling and brilliant,3
+169,Penumbra,A partially shaded area around the edges of a shadow,1
+170,Halcyon,"Calm, peaceful, and carefree",2
+171,Cacophony,"A harsh, discordant mixture of sounds",3
+172,Resplendent,Shining brightly and impressively,1
+173,Petrichor,The pleasant smell that follows the first rain after a dry spell,2
+174,Ineffable,Too great or extreme to be expressed in words,3
+175,Sonorous,"Producing a rich, full, and impressive sound",1
+176,Nebulous,"Unclear, vague, or hazy",2
+177,Ethereal,Delicate and otherworldly,3
+178,Quixotic,"Extremely idealistic, unrealistic, or impractical",1
+179,Elixir,A magical or medicinal potion,2
+180,Aplomb,Self-confidence and poise,3
+181,Bucolic,Relating to the pleasant aspects of the countryside,1
+182,Dulcet,Sweet and soothing,2
+183,Zephyr,"A gentle, mild breeze",3
+184,Supine,Lying face up or inactive,1
+185,Diaphanous,"Delicate, translucent, and light",2
+186,Effervescent,Bubbling or giving off small bubbles of gas,3
+187,Luminous,Emitting light or full of light,1
+188,Quiescent,"Quiet, still, or inactive",2
+189,Mellifluous,Pleasantly smooth and musical,3
+190,Serendipity,Finding something valuable by chance,1
+191,Labyrinthine,Intricate and confusing like a labyrinth,2
+192,Incandescent,Emitting light due to high temperature,3
+193,Ephemeral,Lasting for a very short time,1
+194,Evanescent,Vanishing or fading away like vapor,2
+195,Susurrus,"A soft, murmuring or rustling sound",3
+196,Euphonious,"Pleasing to the ear, melodious",1
+197,Scintillating,Sparkling and brilliant,2
+198,Penumbra,A partially shaded area around the edges of a shadow,3
+199,Halcyon,"Calm, peaceful, and carefree",1
+200,Cacophony,"A harsh, discordant mixture of sounds",2
+201,Resplendent,Shining brightly and impressively,3
+202,Petrichor,The pleasant smell that follows the first rain after a dry spell,1
+203,Ineffable,Too great or extreme to be expressed in words,2
+204,Sonorous,"Producing a rich, full, and impressive sound",3
+205,Nebulous,"Unclear, vague, or hazy",1
+206,Ethereal,Delicate and otherworldly,2
+207,Quixotic,"Extremely idealistic, unrealistic, or impractical",3
+208,Mellifluous,Pleasantly smooth and musical,1
+209,Nebula,A cloud of gas and dust in space,2
+210,Diaphanous,"Delicate, translucent, and light",3
+211,Zephyr,"A gentle, mild breeze",1
+212,Aplomb,Self-confidence and poise,2
+213,Dulcet,Sweet and soothing,3
+214,Supine,Lying face up or inactive,1
+215,Effervescent,Bubbling or giving off small bubbles of gas,2
+216,Luminous,Emitting light or full of light,3
+217,Quiescent,"Quiet, still, or inactive",1
+218,Serendipity,Finding something valuable by chance,2
+219,Mesmerizing,Holding the attention and interest of someone in a captivating way,3

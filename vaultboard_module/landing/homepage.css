@@ -1,0 +1,123 @@
+:root {
+  --blue: #002366;
+}
+a{
+  text-decoration: none;
+}
+.carousel-container a {
+  color: #fff !important;
+}
+
+/* a:hover {
+  color: #fff;
+} */
+
+.container-landing {
+  width: 100%;
+  height: 70%;
+  background-image: url(assets/landing-background.jpg);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.container-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  margin-top: 2rem;
+}
+
+.container-content h1 {
+  width: 80%;
+  padding: 1rem;
+  color: var(--blue);
+}
+
+.container-content p {
+  width: 80%;
+  padding: 1rem;
+  font-size: 1.5rem;
+}
+
+/* Carousel */
+
+.carousel-container {
+  padding: 20px;
+  display: flex;
+  text-align: center;
+  position: relative;
+  height: 350px;
+  /* max-width: 800px;
+  min-width: 600px; */
+  width: 70%;
+  margin: 0 auto;
+}
+
+.carousel-card {
+  height: 300px;
+  width: 400px;
+  padding: 20px;
+  transition: 1s;
+  border-radius: 10px;
+  position: absolute;
+  top: 0;
+  background-color: #FEFAE0;
+  color: white;
+  /* cursor: pointer; */
+  box-shadow: 1px 2px 3px grey;
+}
+
+.carousel-title:hover{
+  text-decoration: none;
+  border-bottom: 2px solid #34D1BF !important;
+}
+
+#far-left {
+  left: 15%;
+  transform: scale(0.9) translateY(0%) translateX(-50%);
+  z-index: 5;
+  background-color: #f0f0f0;
+  opacity: 0.4;
+}
+
+#left {
+  left: 30%;
+  transform: scale(1) translateY(0%) translateX(-50%);
+  z-index: 10;
+  background-color: #c3c3c3;
+  opacity: 0.6;
+}
+
+#center {
+  left: 50%;
+  transform: scale(1.05) translateY(0%) translateX(-50%);
+  z-index: 15;
+}
+
+#center h3{
+  color: black;
+  font-weight: bolder;
+}
+#center p{
+  color: black;
+}
+
+#right {
+  left: 70%;
+  transform: scale(1) translateY(0%) translateX(-50%);
+  z-index: 10;
+  background-color: #c3c3c3;
+  opacity: 0.6;
+}
+
+#far-right {
+  left: 80%;
+  transform: scale(0.9) translateY(0%) translateX(-50%);
+  z-index: 5;
+  background-color: #f0f0f0;
+  opacity: 0.4;
+}

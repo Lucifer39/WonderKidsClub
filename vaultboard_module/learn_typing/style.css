@@ -1,0 +1,801 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+
+:root {
+  /* --bgcolor: url("./images/background.png"); */
+  --button-color: linear-gradient(to bottom, #4caf50, #388e3c);
+  --button-disabled-color: linear-gradient(to bottom, #e0e0e0, #bdbdbd);
+  --button-pressed-color: linear-gradient(to bottom, #388e3c, #2f7532);
+  --inset-shadow: rgba(50, 50, 93, 0.25) 0px 15px 30px -6px inset,
+    rgba(0, 0, 0, 0.3) 0px 9px 18px -9px inset;
+
+  --container-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  --small-shadow: rgba(0, 0, 0, 0.3) 0px 9.5px 19px, rgba(0, 0, 0, 0.22) 0px 7.5px 6px;
+  --heading-blue: linear-gradient(to bottom, #2196f3, #1976d2);
+
+  --white: #fff;
+  --black: #000;
+  --transparent-black: #0000003e;
+  --border-style: 2px solid #ccc;
+
+  --finished-level: linear-gradient(to bottom, #4caf50, #388e3c);
+  --ongoing-level: linear-gradient(to bottom, #ffc107, #ffa000);
+  --locked-level: linear-gradient(to bottom, #e0e0e0, #bdbdbd);
+}
+
+.popuplevl {
+  position: absolute;
+  top: 295px;
+  left: 50px;
+  width: auto;
+  height: auto;
+  /* background-color: black; */
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  z-index: 9999999;
+  animation: moveUpDown 1s infinite;
+}
+
+.popup-content {
+  background: linear-gradient(to bottom, #ffffff 0%, #f2cd60 100%);
+  border-radius: 5px;
+  text-align: center;
+}
+
+@keyframes moveUpDown {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+.hidden {
+  display: none;
+}
+
+#dtext {
+  position: fixed;
+  margin-left: 170px;
+  width: 300px;
+  background-color: red;
+  color: white;
+  display: none;
+  z-index: 9999999;
+  border-radius: 5px;
+  transition: opacity 0.5s ease-in-out;
+  opacity: 0;
+}
+
+#dtext.show {
+  opacity: 1;
+}
+#floating-div {
+  z-index: 99999;
+  position: fixed;
+  top: 22.5%;
+  right: 10; /* Position it at the right edge of the screen */
+  transform: translate(0, -50%);
+  display: none; /* Initially hide the floating div */
+  padding: 5px;
+  background-color: #ff2424;
+  color: white;
+}
+
+body {
+  /* background: var(--bgcolor);
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
+
+tbody,
+td,
+tfoot,
+th,
+thead,
+tr {
+  border-color: none;
+  border-style: none;
+  border-width: 0;
+}
+
+button {
+  /* background: var(--button-color); */
+  padding: 1rem;
+  /* font-size: 1.5rem ; */
+  color: var(--white);
+  /* font-weight: bold ; */
+  border-radius: 2rem;
+}
+
+button:hover {
+  /* background: var(--button-pressed-color); */
+  /* box-shadow: var(--inset-shadow); */
+}
+
+button:disabled {
+  background: var(--button-disabled-color);
+}
+
+.levelmodalbutton {
+  background: transparent;
+  color: black;
+  padding: 10px;
+  font-size: 1rem;
+  border-radius: 0.5rem !important;
+  border: 2px solid #34d1bf;
+}
+
+.levelmodalbutton:hover {
+  background: #34d1bf;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 15px 30px -6px inset,
+    rgba(0, 0, 0, 0.3) 0px 9px 18px -9px inset;
+}
+
+p {
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #555;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  margin: 1rem 0;
+}
+
+@media (min-width: 768px) {
+  p {
+    font-size: 1.2rem;
+    margin: 2rem 0;
+  }
+}
+
+@media (min-width: 1200px) {
+  p {
+    font-size: 1.5rem;
+  }
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.head {
+  width: 100%;
+  background: var(--heading-blue);
+  padding: 1rem;
+  font-size: 2rem;
+  color: var(--white);
+  font-weight: bold;
+  border-radius: 2rem;
+}
+
+.main-menu-buttons-box {
+  /* width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly; */
+}
+
+.main-menu-button {
+  /* width: 10rem !important; */
+}
+
+/*--------levels page-----------*/
+.levels-page-container {
+  width: 100%;
+}
+
+.level {
+  font-weight: bold;
+  /* margin-top: 10px;
+  font-size: 2rem;
+  color: white; */
+}
+
+.skill {
+  /* margin-left: 20px; */
+  font-size: 1.5rem;
+  padding: 1rem;
+  /* display: flex; */
+  text-align: center;
+  /* align-items: center; */
+  font-weight: 500;
+}
+
+.group-desc {
+  display: flex;
+  padding-left: 120px;
+  align-items: center;
+  font-size: 1rem;
+  /* justify-content: center; */
+  margin-top: 10px;
+}
+
+.group {
+  display: flex;
+  flex-direction: column;
+  /* text-align: center; */
+  /* margin-left: 10px; */
+  font-size: 0.7rem;
+  color: var(--white);
+  /* padding: 1rem; */
+  border-radius: 2rem;
+  box-shadow: var(--small-shadow);
+  /* animation: moveUpDown 1s infinite; */
+}
+
+.group:hover {
+  cursor: pointer;
+  box-shadow: var(--inset-shadow);
+}
+
+.group[data-status="completed"] {
+  background: var(--finished-level);
+}
+
+.group[data-status="ongoing"] {
+  background: var(--ongoing-level);
+}
+
+.group[data-status="not started"] {
+  background: var(--locked-level);
+  box-shadow: none;
+  cursor: default;
+}
+
+/*-------------play page-----------*/
+.game-box {
+  border: 2px solid #333;
+  border-radius: 10px;
+  padding: 15px;
+  background-color: #fff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  margin: 0;
+  max-width: 100%;
+}
+
+.game-box h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.game-box p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.game-box #combinations {
+  display: inline-block;
+  background-color: #eee;
+  border: 2px solid #333;
+  padding: 5px;
+  margin-bottom: 0px;
+  border-radius: 10px;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+.game-box input {
+  font-size: 24px;
+  padding: 10px;
+  border: none;
+  background-color: #fff;
+  border-bottom: 2px solid #333;
+  text-align: center;
+  margin-bottom: 10px;
+  border-radius: 0;
+  width: 100%;
+}
+
+.game-box input:focus {
+  outline: none;
+  border-bottom: 2px solid #4caf50;
+}
+
+.game-box .game-status {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 20px;
+  color: #4caf50;
+}
+
+.modal-1 {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  align-tracks: center;
+  background-color: var(--transparent-black);
+}
+
+.modal-container {
+  background-color: var(--white);
+  width: 50%;
+  height: 40%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 2rem;
+  box-shadow: var(--container-shadow);
+  z-index: 999999999999;
+}
+
+#modal-header {
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+#modal-buttons {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.correct {
+  color: black;
+  background-color: #7eff7e;
+}
+
+.incorrect {
+  color: white;
+  background-color: rgb(255, 117, 117);
+}
+
+.type-tools {
+  width: 100%;
+  /* color: white; */
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+
+/*---*/
+
+.toggle-switch {
+  position: relative;
+  display: inline-block;
+  width: 30px;
+  height: 17px;
+  border-radius: 2rem;
+}
+
+.toggle-switch input[type="checkbox"] {
+  display: none;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  transition: 0.4s;
+  border-radius: 0.75rem;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 14px;
+  width: 14px;
+  left: 2px;
+  bottom: 2px;
+  background-color: white;
+  transition: 0.4s;
+  border-radius: 2rem;
+}
+
+input[type="checkbox"]:checked + .slider {
+  background-color: #2196f3;
+}
+
+input[type="checkbox"]:checked + .slider:before {
+  transform: translateX(12px);
+}
+/* keyboard */
+.keyboard {
+  text-align: center;
+  font-size: 15px;
+  font-family: sans-serif;
+}
+
+.keyboard {
+  position: relative;
+}
+
+.keyboard img {
+  width: 640px;
+  height: auto;
+  position: absolute;
+  top: 130;
+  left: 35%;
+  transform: translateX(-50%);
+  opacity: 0.8;
+}
+
+.instructions {
+  padding: 20px;
+  border-radius: 10px;
+  background: linear-gradient(to bottom, #ffffff 0%, #fbeec1 100%);
+}
+
+@media screen and (max-width: 2352px) {
+  #skill-name {
+    font-size: 20px;
+  }
+  .game-box #combinations {
+    padding: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.2;
+  }
+  .game-box input {
+    font-size: 20px;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  .instructions {
+    padding: 10px;
+  }
+  .instul {
+    font-size: 0.7rem;
+  }
+  .keyboard {
+    text-align: center;
+    font-size: 0.7rem;
+  }
+  .keyboard img {
+    top: 100;
+    width: 30rem;
+    left: 19rem;
+  }
+}
+
+.keyboard__row {
+  display: inline-block;
+  height: 3em;
+  margin: 0.2em;
+}
+
+.keyboard__row--h1 {
+  height: 1.7em;
+  line-height: 1.4em;
+}
+
+.keyboard__row--h3 {
+  height: 3.3em;
+}
+
+.keyboard__row > * {
+  position: relative;
+  background: #333;
+  text-align: center;
+  color: #eee;
+  float: left;
+  border-radius: 0.3em;
+  margin: 0.2em;
+  padding: 0.2em;
+  width: 3.3em;
+  height: 100%;
+  box-sizing: border-box;
+  cursor: pointer;
+  -webkit-user-select: none;
+  border: 1px solid #444;
+  box-shadow: 0 0.2em 0 0.05em #222;
+  border-bottom-color: #555;
+}
+
+.keyboard__row--h1 > div {
+  width: 3.5em;
+}
+
+.keyboard__row > div[data-pressed] {
+  /* color: white; */
+  position: relative;
+  top: 0.2em;
+  box-shadow: 0 0 0 0.1em black;
+}
+
+.key--w3 {
+  width: 4.6em;
+}
+
+.key--w4 {
+  width: 6em;
+}
+
+.key--w5 {
+  width: 6.5em;
+}
+
+.key--w6 {
+  width: 8.3em;
+}
+
+.key--space {
+  width: 18em;
+}
+
+.key--double > * {
+  padding-top: 0.1em;
+}
+
+.key--letter {
+  line-height: 2.8em;
+}
+
+.key--bottom-left > * {
+  position: absolute;
+  text-align: left;
+  bottom: 0.4em;
+  left: 0.4em;
+}
+
+.key--bottom-right > * {
+  position: absolute;
+  text-align: right;
+  bottom: 0.4em;
+  right: 0.4em;
+}
+
+.key--fn > * {
+  font-size: 0.6em;
+  line-height: 1em;
+  padding-top: 1.2em;
+  padding-right: 0.2em;
+  text-align: right;
+  float: right;
+}
+
+.key--word > * {
+  font-size: 0.8em;
+}
+
+.key--arrow--tall > *,
+.key--arrow > * {
+  font-size: 0.5em;
+  line-height: 3em;
+}
+
+.key--arrow {
+  height: 1.8em;
+  margin-top: 1.7em;
+  line-height: 0.5em;
+}
+
+.key--arrow--tall > * {
+  padding-top: 0.2em;
+}
+
+.keyboard > .keyboard__row {
+  text-align: center;
+}
+
+.highlight {
+  background: blue;
+  color: black;
+}
+.highlightleftpinky {
+  background: #fcc62b;
+  color: black;
+}
+.highlightleftring {
+  background: #e7d643;
+  color: black;
+}
+.highlightleftmiddle {
+  background: #bccc83;
+  color: black;
+}
+.highlightleftindex {
+  background: #7d85ab;
+  color: white;
+}
+.highlightspacebar {
+  background: #fffbf9;
+  color: black;
+}
+.highlightrightindex {
+  background: #62b0cd;
+  color: black;
+}
+.highlightrightmiddle {
+  background: #ab78b1;
+  color: white;
+}
+.highlightrightring {
+  background: #6dbb82;
+  color: white;
+}
+.highlightrightpinky {
+  background: #ef321c;
+  color: white;
+}
+.card-border-text {
+  position: relative;
+  margin-top: -10px;
+}
+
+.card-border-text::before {
+  content: attr(data-content);
+  position: absolute;
+  top: -20px;
+  left: 0;
+  right: 0;
+  padding: 7px;
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+  background-color: #34d1bf;
+  border-radius: 10px;
+}
+.bg-img {
+  /* background-image: url(./images/bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover; */
+  border-radius: 20px;
+}
+.marginbtn {
+  margin-left: 10px;
+}
+.img-fluid {
+  width: 100px;
+}
+#levels-container {
+  position: relative;
+  left: 0;
+}
+
+.applicationStatus {
+  white-space: nowrap;
+  overflow-x: auto;
+  height: 70px;
+  padding-top: 10px;
+  padding-left: 0px;
+}
+
+.applicationStatus li {
+  /* Added this and moved much code to here */
+  position: relative; /* this was a key property missing from your code */
+  text-indent: 30px;
+  height: 60px;
+  background-color: #767676;
+  display: inline-block;
+  /* Dirty IE Hack */
+  zoom: 1;
+  display: inline;
+  /* margin-right: 30px; Eliminated this */
+  margin-left: 32px;
+  padding: 4px 4px 4px 4px;
+  color: white;
+  font-size: 1.2rem;
+  text-align: center;
+  line-height: 35px;
+}
+
+ul.applicationStatus {
+  /* this is irrelevant with the HTML you gave, but I added the class */
+  list-style: none;
+}
+
+li.applicationStatus:first-child:after,
+li.applicationStatusGood:after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-top: 20px solid transparent;
+  border-left: 20px solid #767676;
+  border-bottom: 20px solid transparent;
+  margin: -3px 90px 0 2px;
+}
+li.applicationStatus:last-child:before,
+li.applicationStatusGood:before {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0;
+  left: 0;
+  border-top: 30px solid transparent;
+  border-left: 30px solid transparent;
+  border-bottom: 30px solid transparent;
+  margin: -10px 0px 0 0px;
+}
+
+li.applicationStatusGood {
+  background-color: white;
+  color: #000;
+  border: 2px solid #f7b801;
+}
+
+li.applicationStatusGood:after {
+  border-left: 30px solid #f7b801;
+}
+
+.activelevel {
+  color: black !important;
+  background-color: #f7b801 !important;
+}
+
+.bubble {
+  position: relative;
+  width: 250px;
+  height: 50px;
+  left: 25%;
+  background: #f7b801;
+  border-radius: 10px;
+  box-shadow: 5px 8px 8px #888888;
+}
+
+.bubble .bubble1::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 0;
+  height: 0;
+  border: 13px solid transparent;
+  border-right-color: #f7b801;
+  border-left: 0;
+  margin-top: -13px;
+  margin-left: -13px;
+}
+
+.bubble1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 250px;
+  height: 30px;
+  background: #f7b801;
+  border-radius: 5px;
+}
+
+.bubble1 h6 {
+  margin: 0 0 0 10px;
+  color: black;
+  line-height: 30px;
+  font-size: 0.9rem;
+}
+@keyframes moveUpDown {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+::-webkit-scrollbar {
+  width: 3px;
+  height: 3px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}

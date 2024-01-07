@@ -1,0 +1,304 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+:root {
+  --background-color: #2f474e;
+  --aside-background-color: #2f474e;
+  --white: #fff;
+  --sky-blue: #38bcd0;
+  --pink: #f36;
+  --blue: #0073b1;
+  --creamy: #fdf5e6;
+  --dark-creamy: #e9e1d4;
+}
+
+a {
+  color: black;
+}
+
+main {
+  /* background-color: var(--background-color); */
+  display: flex;
+  margin-top: 0px;
+  /* height: 100%;
+  width: 100%; */
+}
+
+.navbar-wrapper {
+  position: fixed;
+  top: 70px;
+  width: 100%;
+  z-index: 999; /* Adjust the z-index as needed */
+}
+
+.main-body-vocab {
+  position: absolute;
+  top: 140px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  /* height: 100vh; Set the height to 100% of the viewport height */
+  /* min-height: 100%; */
+  /* margin-top: 350px; */
+  /* background-color: var(--creamy); */
+  /* padding: 1rem; */
+  /* max-width: 93.2%; */
+}
+
+.main-body-nav-li {
+  padding: 0.7rem;
+  border-radius: 10px 10px 0 0;
+  text-align: center;
+}
+
+.main-body-nav-ul li:hover {
+  cursor: pointer;
+}
+
+.main-body-nav-ul li a {
+  color: var(--white);
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.vocab-main-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* background-color: var(--white); */
+  /* overflow-y: auto; */
+}
+
+.checked-nav {
+  border-bottom: 4px solid var(--sky-blue) !important;
+}
+
+.header-title-mainmenu {
+  /* color: white !important; */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.name-head-div {
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+.name-body-div {
+  font-size: 0.5rem;
+}
+
+/* .dictionary-form-label {
+  color: var(--white);
+} */
+
+.week-select-container {
+  width: 60%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 1rem;
+  /* font-size: 0.75rem; */
+}
+
+.week-select-container a button,
+.word-days-btn {
+  font-size: 0.75rem !important;
+  padding: 0.75rem !important;
+}
+
+.word-days-btn {
+  width: 50px;
+}
+
+.user-row-leaderboard {
+  font-size: 1.25rem !important;
+  font-weight: 700;
+  color: #001f3f;
+  background-color: #fdd835;
+}
+
+.leaderboard-filter-buttons {
+  font-size: 1rem;
+  padding: 0.75rem;
+  border-radius: 1rem !important;
+}
+
+.dictionary-action {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.dictionary-footer-nav button {
+  padding: 0.75rem !important;
+  font-size: 0.75rem !important;
+  width: 100px;
+}
+
+.day-select-form {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* width: 150px; */
+}
+
+.day-select {
+  margin-right: 0.75rem;
+}
+
+.close-leaderboard {
+  font-size: 0.75rem !important;
+  border-radius: 50% !important;
+}
+
+@media screen and (max-width: 768px) {
+  .navbar-wrapper {
+    top: 50px !important;
+  }
+
+  .main-body-vocab {
+    top: 100px;
+  }
+
+  .main-menu-words-button {
+    margin-bottom: 17px;
+  }
+
+  #leaderboard {
+    width: 10rem !important;
+  }
+
+  #leaderboard thead,
+  tr,
+  th,
+  tbody,
+  td {
+    padding: 0.25rem;
+    text-align: center;
+    font-size: 0.35rem;
+  }
+
+  .leaderboard-container-box {
+    align-items: flex-start !important;
+  }
+
+  .homepage-leaderboard {
+    width: 100% !important;
+    border-radius: 0.5rem !important;
+    margin-top: 50px !important;
+  }
+
+  .search-filter {
+    flex-direction: column;
+    margin-bottom: 1rem !important;
+    align-items: center;
+  }
+
+  .search-filter input {
+    width: 100% !important;
+  }
+
+  .dictionary-action {
+    flex-direction: column;
+  }
+
+  .week-select-container {
+    width: 100% !important;
+  }
+
+  .quiz-stats {
+    padding: 1rem;
+    width: 100% !important;
+    height: fit-content !important;
+  }
+
+  .quiz-header {
+    height: fit-content;
+  }
+
+  #quiz {
+    flex-direction: column;
+  }
+
+  #options {
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  #streak-div,
+  #every-score,
+  .timer-container {
+    font-size: 0.75rem !important;
+  }
+
+  .question-container {
+    width: 100% !important;
+  }
+
+  .congratulations-display {
+    text-align: center;
+    width: 100%;
+  }
+
+  .score-top,
+  .performance-stats-count {
+    flex-direction: column;
+  }
+
+  .performance-stats-container {
+    background-color: transparent !important;
+  }
+
+  .performance-stats-container h2 {
+    text-align: center;
+  }
+
+  .result-score-container,
+  .accuracy-container,
+  .correct-answer-container,
+  .incorrect-answer-container,
+  .time-taken-container,
+  .longest-streak-container {
+    width: 10rem;
+    margin-bottom: 2rem;
+  }
+
+  .vocab-sub-nav-img {
+    display: none;
+  }
+
+  .main-body-nav-li {
+    padding: 0.5rem !important;
+    font-size: 0.75rem !important;
+  }
+
+  .leaderboard-buttons-container button {
+    font-size: 0.75rem !important;
+    padding: 0.5rem !important;
+    margin-top: 10px;
+  }
+
+  .dictionary-word-right-panel {
+    flex-direction: column;
+  }
+
+  .dictionary-word-meaning {
+    border: none !important;
+    width: 100% !important;
+  }
+
+  .dictionary-word-others {
+    width: 100% !important;
+  }
+
+  #dictionary-word-synonyms-box {
+    border: none !important;
+  }
+}

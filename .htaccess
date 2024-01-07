@@ -1,0 +1,62 @@
+# <FilesMatch "\.(css)$">
+#     Header set Cache-Control "max-age=0, no-store"
+# </FilesMatch>
+# Enable Expires headers for common file types
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType text/javascript "access plus 1 month"
+  ExpiresByType application/javascript "access plus 1 month"
+  ExpiresByType application/x-shockwave-flash "access plus 1 month"
+</IfModule>
+
+<IfModule mod_rewrite.c>
+<IfModule mod_negotiation.c>
+Options -MultiViews -Indexes
+    </IfModule>
+
+RewriteEngine On
+
+# Exclude the vaultboard_module directory from rewrite rules
+RewriteRule ^(vaultboard_module/.*) - [L]
+
+# Exclude the chatbot directory from rewrite rules
+RewriteRule ^(chatbot/.*) - [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+  
+# Redirect Trailing Slashes If Not A Folder...
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} (.+)/$
+RewriteRule ^ %1 [L,R=301]
+    
+#RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php [NC]
+#RewriteRule ^ %1 [R=301,L]
+
+RewriteRule ^link/(.*)$ index.php?slug=$1 [QSA,L]
+RewriteRule ^([a-z0-9-]+)/([a-z0-9-]+)/([a-z0-9-]+)/([a-z0-9-]+)$ practice.php?subject=$2&class=$1&topic=$3&subtopic=$4 [L,QSA]
+
+RewriteRule ^fastest/([a-z0-9-]+)$ fastest.php?topic=$1 [L,QSA]
+
+RewriteRule ^paper/([a-z0-9-]+)$ paper.php?slug=$1 [L,QSA]
+
+RewriteRule ^quiz/([a-z0-9-]+)$ quiz.php?slug=$1 [L,QSA]
+
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php [NC]
+RewriteRule ^ %1 [R,L]
+
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
+
+#RewriteRule ([a-z0-9-]+)/([a-z0-9-]+)$ blog.php?slug=$1 [L,QSA]
+#RewriteRule ([a-z0-9-]+)/([a-z0-9-]+)$ services.php?slug=$1 [L,QSA]
+
+RewriteRule ^controlgear/([a-z0-9-]+)$ controlgear/$1 [L,QSA]
+RewriteRule ^([a-z0-9-]+)/([a-z0-9-]+)$ category.php?subject=$2&class=$1 [L,QSA]
+#RewriteRule ^([a-z0-9-]+)$ listing.php?slug=$1 [L,QSA]
+#RewriteRule ^admin/([a-z0-9-]+)$ admin/post [L,QSA]
+
+</IfModule>

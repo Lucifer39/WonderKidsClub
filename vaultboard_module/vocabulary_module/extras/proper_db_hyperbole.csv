@@ -1,0 +1,695 @@
+S.No.,Class / Age,Hyperbole,Meaning,Example Sentence
+469,1 class,I'm so hungry I could eat a horse.,I'm very hungry.,"I didn't have breakfast this morning, I'm so hungry I could eat a horse."
+470,1 class,My backpack weighs a ton.,My backpack is very heavy.,"I have so many books in my backpack, it weighs a ton."
+471,1 class,I've told you a million times.,I've told you many times.,"I keep reminding you to tie your shoelaces, I've told you a million times."
+472,1 class,The playground is as big as a football field.,The playground is very large.,"There's so much space to run and play, the playground is as big as a football field."
+473,1 class,I have a million things to do today.,I have many things to do today.,"I have to finish my homework, practice piano, and go to soccer practice, I have a million things to do today."
+474,1 class,This pencil is as long as a giraffe's neck.,The pencil is very long.,"This pencil is so long, it's as long as a giraffe's neck."
+475,1 class,The line for the water fountain is a mile long.,The line is very long.,"There are so many students waiting in line for the water fountain, it's a mile long."
+476,1 class,I have eyes in the back of my head.,I'm aware of everything that's happening.,"I know you're trying to sneak up on me, but I have eyes in the back of my head."
+477,1 class,I could sleep for a year.,I'm very tired.,"I stayed up late studying last night, I could sleep for a year."
+478,1 class,The ice cream is as cold as Antarctica.,The ice cream is very cold.,I can feel brain freeze because the ice cream is as cold as Antarctica.
+479,1 class,My feet are killing me.,My feet are very sore.,"I walked all day at the amusement park, my feet are killing me."
+480,1 class,I have a ton of homework.,I have a lot of homework.,"I have math, reading, and spelling homework tonight, I have a ton of homework."
+481,1 class,This pencil is as thin as a toothpick.,The pencil is very thin.,"This pencil is so thin, it's as thin as a toothpick."
+482,1 class,My brain is fried.,I'm mentally exhausted.,"I've been studying for hours, my brain is fried."
+483,1 class,The library is as quiet as a mouse.,The library is very quiet.,"We have to be quiet in the library, it's as quiet as a mouse."
+484,1 class,I'm running as fast as a cheetah.,I'm running very fast.,"I want to be the first one to the finish line, so I'm running as fast as a cheetah."
+485,1 class,This glue is as sticky as a spider's web.,The glue is very sticky.,"I can't get my hands unstuck, this glue is as sticky as a spider's web."
+486,1 class,The sun is as hot as fire.,The sun is very hot.,"I can feel the heat on my skin, the sun is as hot as fire."
+487,1 class,This marker is as thick as a tree trunk.,The marker is very thick.,"This marker is so thick, it's as thick as a tree trunk."
+488,1 class,He ate a million cookies.,He ate a lot of cookies.,"He loves cookies so much, he must have eaten a million cookies."
+489,1 class,She ran a thousand miles.,She ran a long distance.,"She ran so fast and so far, it felt like she ran a thousand miles."
+490,1 class,He is as strong as a superhero.,He is very strong.,"He lifted the heavy box with ease, he is as strong as a superhero."
+491,1 class,She is as light as a feather.,She is very light.,"When I picked her up, she felt like a feather, she is as light as a feather."
+492,1 class,He has eyes as big as saucers.,He has very big eyes.,"When he saw the surprise, his eyes opened wide and were as big as saucers."
+493,1 class,She is as fast as a cheetah.,She runs very fast.,"During the race, she ran so fast, she was as fast as a cheetah."
+494,1 class,He is as tall as a giraffe.,He is very tall.,"When he stood up, he was as tall as a giraffe."
+495,1 class,She has a smile as wide as a rainbow.,She has a very big smile.,"Whenever she smiles, her smile is as wide as a rainbow."
+496,1 class,He has a brain as big as a planet.,He is very intelligent.,"He always gets good grades, his brain is as big as a planet."
+497,1 class,She has a heart as pure as gold.,She is very kind.,"Whenever someone needs help, she is always there, her heart is as pure as gold."
+498,1 class,He has feet as big as boats.,He has very big feet.,"When he put on his new shoes, they looked so small on his feet, which are as big as boats."
+499,1 class,She is as quiet as a mouse.,She is very quiet.,"During the movie, she didn't make a sound, she was as quiet as a mouse."
+500,1 class,He is as brave as a lion.,He is very brave.,"When he saw the spider, he wasn't scared at all, he is as brave as a lion."
+501,1 class,She is as sweet as candy.,She is very kind.,"Whenever someone is sad, she always makes them feel better, she is as sweet as candy."
+502,1 class,He has hands as big as baseball gloves.,He has very big hands.,"When he tried on the new gloves, they looked so small on his hands, which are as big as baseball gloves."
+503,1 class,She is as strong as an ox.,She is very strong.,"She lifted the heavy box with ease, she is as strong as an ox."
+504,1 class,He is as quick as a rabbit.,He is very fast.,"During the race, he ran so fast, he was as quick as a rabbit."
+505,1 class,She has a voice as loud as thunder.,She has a very loud voice.,"When she sang, her voice was so loud, it was as loud as thunder."
+506,1 class,He has a nose as big as a watermelon.,He has a very big nose.,"When he sneezed, his nose looked so big, it was as big as a watermelon."
+507,1 class,I have a million toys.,I have a lot of toys.,"I love playing with my toys, I have a million of them!"
+508,1 class,She runs faster than the speed of light.,She runs very fast.,"Whenever we play tag, she always wins because she runs faster than the speed of light."
+509,1 class,My backpack weighs a ton.,My backpack is very heavy.,"My backpack is so heavy, it weighs a ton!"
+510,1 class,The sun is as hot as fire.,The sun is very hot.,"It's so hot outside, the sun feels like fire!"
+511,1 class,I can eat a mountain of ice cream.,I can eat a lot of ice cream.,"I love ice cream so much, I could eat a mountain of it!"
+512,1 class,She sings like an angel.,She sings very beautifully.,"Whenever she sings, it's like we're listening to an angel."
+513,1 class,My pencil is as sharp as a needle.,My pencil is very sharp.,"I love using my pencil, it's as sharp as a needle."
+514,1 class,I am as tall as a giraffe.,I am very tall.,"I'm the tallest in my class, I'm as tall as a giraffe!"
+515,1 class,He has a memory like an elephant.,He remembers things very well.,"Whenever we study together, he always remembers everything, he has a memory like an elephant."
+516,1 class,My room is a disaster zone.,My room is very messy.,"I need to clean my room, it's a disaster zone!"
+517,1 class,She has a heart of gold.,She is very kind and caring.,"Whenever I'm sad, she always cheers me up, she has a heart of gold."
+518,1 class,My dad is as strong as a lion.,My dad is very strong.,"My dad can lift heavy things easily, he's as strong as a lion."
+519,1 class,I am as fast as a cheetah.,I am very fast.,"Whenever we race, I always win because I'm as fast as a cheetah."
+520,1 class,She is as quiet as a mouse.,She is very quiet.,"Whenever we play hide-and-seek, she can hide so quietly, she's as quiet as a mouse."
+521,1 class,My backpack is a black hole.,My backpack is very deep and can hold a lot.,"I love my backpack, it can hold everything I need, it's like a black hole."
+522,1 class,He is as brave as a superhero.,He is very brave.,"Whenever we play superheroes, he always acts so brave, he's as brave as a superhero."
+523,1 class,I have a thousand friends.,I have a lot of friends.,"I love spending time with my friends, I have a thousand of them!"
+524,1 class,She is as sweet as candy.,She is very sweet and kind.,"Whenever I need help, she always offers to help, she's as sweet as candy."
+525,1 class,My bike is as fast as a rocket.,My bike is very fast.,"I love riding my bike, it's as fast as a rocket."
+526,1 class,He is as smart as a computer.,He is very smart.,"Whenever we have a test, he always gets top marks, he's as smart as a computer."
+527,1 class,The sun is a giant ball of fire.,The sun is very hot.,"It's so hot outside, it feels like we're standing right next to a giant ball of fire!"
+528,1 class,The sun is as bright as a million light bulbs.,The sun is very bright.,I have to wear sunglasses because the sun is as bright as a million light bulbs!
+529,1 class,"The sun is a huge, glowing star.",The sun is very big and bright.,"The sun is the biggest, brightest star in our solar system, it's a huge, glowing star!"
+530,1 class,The sun is as hot as the surface of the sun.,The sun is very hot.,I can't go outside without sunscreen because the sun is as hot as the surface of the sun.
+531,1 class,The sun is a giant yellow ball in the sky.,The sun is very big and bright.,"When I look up at the sky, I see a giant yellow ball that is the sun."
+532,1 class,The sun is as big as the universe.,The sun is very big.,"The sun is the biggest thing I know, it's as big as the universe!"
+533,1 class,The sun is a blazing inferno in the sky.,The sun is very hot.,"The sun is so hot, it's like a blazing inferno in the sky!"
+534,1 class,"The sun is a massive, shining sphere.",The sun is very big and bright.,"The sun is a massive, shining sphere that lights up the entire solar system."
+535,1 class,The sun is a golden ball in the sky.,The sun is very bright and golden-colored.,"When the sun sets, it looks like a golden ball in the sky."
+536,1 class,The sun is a glowing orb in the heavens.,The sun is very bright and visible in the sky.,"When I look up at the sky, I see a glowing orb that is the sun."
+537,1 class,The sun is a scorching furnace in the sky.,The sun is very hot.,I can't stay outside for too long because the sun is like a scorching furnace in the sky.
+538,1 class,The sun is a blinding light in the sky.,The sun is very bright.,"When the sun is at its highest, it's like a blinding light in the sky."
+539,1 class,"The sun is a massive, fiery ball.",The sun is very big and hot.,"The sun is a massive, fiery ball that provides light and warmth to our planet."
+540,1 class,The sun is as hot as the center of the Earth.,The sun is very hot.,"It's so hot outside, it feels like the sun is as hot as the center of the Earth!"
+541,1 class,The sun is a massive inferno of heat and light.,The sun is very hot and bright.,"When I look at the sun, it's like a massive inferno of heat and light in the sky."
+542,1 class,The sun is as bright as a thousand stars.,The sun is very bright.,"When the sun is at its brightest, it's like a thousand stars shining in the sky."
+543,1 class,"The sun is a brilliant, shining orb.",The sun is very bright and visible in the sky.,"When I look up at the sky, I see a brilliant, shining orb that is the sun."
+544,1 class,"The moon is so big and bright, it lights up the whole sky!",The moon is very large and bright.,"Look at the moon, it's so big and bright tonight that it's lighting up the whole sky!"
+545,1 class,I wish I could reach up and touch the moon!,Expressing a desire to do something that is impossible.,"The moon looks so close that I wish I could reach up and touch it, but I know it's too far away."
+546,1 class,The moon is like a giant glowing ball in the sky!,"Describing the moon as a large, bright object.","Look at the moon, it's like a giant glowing ball in the sky!"
+547,1 class,"The moon is so beautiful, it takes my breath away!",Describing the moon as very beautiful.,"When I look at the moon, it's so beautiful that it takes my breath away!"
+548,1 class,The moon is as big as a giant pumpkin in the sky!,Comparing the size of the moon to a large object.,"Look at the moon, it's as big as a giant pumpkin in the sky tonight!"
+549,1 class,The moon looks like a silver dollar in the sky!,"Comparing the appearance of the moon to a small, round object.",The moon is so small tonight that it looks like a silver dollar in the sky!
+550,1 class,"The moon is so bright, it's like a giant flashlight in the sky!",Comparing the brightness of the moon to a powerful light.,"When the moon is full, it's so bright that it's like a giant flashlight in the sky!"
+551,1 class,"The moon is so pretty, it's like a shining diamond in the sky!",Comparing the beauty of the moon to a precious gem.,"Look at the moon, it's so pretty tonight that it's like a shining diamond in the sky!"
+552,1 class,The moon is as pale as a ghost in the sky!,Comparing the color of the moon to a pale or white object.,The moon is so pale tonight that it looks like a ghost in the sky!
+553,1 class,"The moon is so close, I feel like I could almost touch it!",Expressing a feeling of closeness to the moon.,The moon is so close tonight that I feel like I could almost touch it with my hand!
+554,1 class,The moon is like a giant nightlight in the sky!,Comparing the moon to a light that illuminates the night.,"When the moon is full, it's like a giant nightlight in the sky!"
+555,1 class,"The moon is so big, it's like a giant cookie in the sky!","Comparing the size of the moon to a large, round object.",The moon is so big tonight that it looks like a giant cookie in the sky!
+556,1 class,"The moon is so magical, it makes me believe in fairy tales!",Describing the moon as having a magical quality.,"When I look at the moon, it's so magical that it makes me believe in fairy tales and stories of enchanted worlds."
+557,1 class,"The moon is so bright, it's like a spotlight in the sky!",Comparing the brightness of the moon to a powerful spotlight.,"When the moon is full, it's so bright that it's like a spotlight in the sky!"
+558,1 class,"That puzzle is so easy, I could solve it with my eyes closed!",Describing something as very easy.,"This puzzle is so easy, I could solve it with my eyes closed!"
+559,1 class,"This test is a piece of cake, I'll finish it in no time!",Describing a test as very easy.,"This test is a piece of cake, I'll finish it in no time!"
+560,1 class,"This game is so easy, I could play it with my eyes closed!",Describing a game as very easy.,"This game is so easy, I could play it with my eyes closed!"
+561,1 class,"This math problem is so easy, I could solve it in my sleep!",Describing a math problem as very easy.,"This math problem is so easy, I could solve it in my sleep!"
+562,1 class,"This book is so easy to read, I finished it in one day!",Describing a book as very easy to read.,"This book is so easy to read, I finished it in one day!"
+563,1 class,"This project is so easy, I'll finish it in no time!",Describing a project as very easy.,"This project is so easy, I'll finish it in no time!"
+564,1 class,"This game is so easy, it's like child's play!",Comparing the easiness of a game to something that is very easy for children.,"This game is so easy, it's like child's play!"
+565,1 class,"This problem is so easy, it's a no-brainer!",Describing a problem as very easy.,"This problem is so easy, it's a no-brainer!"
+566,1 class,"This exercise is so easy, it's a breeze!",Describing an exercise as very easy.,"This exercise is so easy, it's a breeze!"
+567,1 class,"This task is so easy, it's a walk in the park!",Describing a task as very easy.,"This task is so easy, it's a walk in the park!"
+568,1 class,"This puzzle is so easy, it's like putting together a simple puzzle!",Comparing the easiness of a puzzle to putting together a simple puzzle.,"This puzzle is so easy, it's like putting together a simple puzzle!"
+569,1 class,"This assignment is so easy, I finished it in minutes!",Describing an assignment as very easy.,"This assignment is so easy, I finished it in minutes!"
+570,1 class,"This game is so easy, it's like shooting fish in a barrel!",Comparing the easiness of a game to something that is very easy to do.,"This game is so easy, it's like shooting fish in a barrel!"
+571,1 class,"This question is so easy, it's a piece of cake!",Describing a question as very easy.,"This question is so easy, it's a piece of cake!"
+572,1 class,"This activity is so easy, it's like taking candy from a baby!",Comparing the easiness of an activity to taking candy from a baby.,"This activity is so easy, it's like taking candy from a baby!"
+573,1 class,"This game is so easy, it's like playing with toy blocks!",Comparing the easiness of a game to playing with toy blocks.,"This game is so easy, it's like playing with toy blocks!"
+354,2 class,I've told you a million times.,I've told you a lot of times.,I've told you a million times to tie your shoes before going outside.
+355,2 class,It's raining cats and dogs.,It's raining heavily.,I can't go outside because it's raining cats and dogs.
+356,2 class,I could eat a horse.,I am very hungry.,"I haven't eaten all day, I could eat a horse!"
+357,2 class,I'm so hungry I could eat a whole cow.,I am very hungry.,I'm starving! I'm so hungry I could eat a whole cow.
+358,2 class,He's as tall as a giant.,He is very tall.,"He's as tall as a giant, I can barely see his face."
+359,2 class,Her smile lit up the whole room.,Her smile was very bright and beautiful.,"When she walked in, her smile lit up the whole room."
+360,2 class,I'm dying of boredom.,I am extremely bored.,"This movie is so boring, I feel like I'm dying of boredom."
+361,2 class,I've been waiting for ages.,I have been waiting for a long time.,I've been waiting for ages for the bus to arrive.
+362,2 class,My backpack weighs a ton.,My backpack is very heavy.,"My backpack weighs a ton, I can barely carry it."
+363,2 class,She's as quiet as a mouse.,She is very quiet.,"She's as quiet as a mouse, I didn't even know she was in the room."
+364,2 class,I have a ton of homework.,I have a lot of homework.,"I can't play with you right now, I have a ton of homework to do."
+365,2 class,The playground is a million miles away.,The playground is very far away.,"I can't wait to get to the playground, even though it feels like it's a million miles away."
+366,2 class,The library has a million books.,The library has a lot of books.,"I love going to the library, it feels like there are a million books to choose from."
+367,2 class,I'm so tired I could sleep for a year.,I am very tired.,"After running around all day, I'm so tired I could sleep for a year."
+368,2 class,He's as strong as an ox.,He is very strong.,"He's as strong as an ox, he can lift anything."
+369,2 class,I've been studying forever.,I have been studying for a long time.,I feel like I've been studying forever for this test.
+370,2 class,She's as pretty as a picture.,She is very pretty.,"She's as pretty as a picture, I wish I looked like her."
+371,2 class,I have a million things to do.,I have a lot of things to do.,"I can't play right now, I have a million things to do before dinner."
+372,2 class,The line for the slide is a mile long.,The line for the slide is very long.,"I don't want to wait in line for the slide, it's a mile long!"
+373,2 class,He's as fast as lightning.,He is very fast.,"He's as fast as lightning, I can't catch him."
+374,2 class,He's as strong as an ox.,He is very strong.,"He's as strong as an ox, he can lift anything."
+375,2 class,I have the strength of ten people.,I am very strong.,"I was able to lift that heavy box all by myself, I have the strength of ten people!"
+376,2 class,My muscles are made of steel.,My muscles are very strong.,I was able to lift the heavy weights easily because my muscles are made of steel.
+377,2 class,She's as strong as a superhero.,She is very strong.,"She's as strong as a superhero, she can lift a car!"
+378,2 class,I'm so strong I could move a mountain.,I am very strong.,I'm so strong I could move a mountain with my bare hands!
+379,2 class,I'm as strong as a bull.,I am very strong.,I was able to carry the heavy load because I'm as strong as a bull.
+380,2 class,I have the strength of a lion.,I am very strong.,I was able to lift the heavy rock because I have the strength of a lion.
+381,2 class,I'm as strong as a rock.,I am very strong.,I was able to push the heavy boulder because I'm as strong as a rock.
+382,2 class,My arms are like steel cables.,My arms are very strong.,I was able to lift the heavy weight easily because my arms are like steel cables.
+383,2 class,I have the strength of Hercules.,I am very strong.,I was able to lift the car all by myself because I have the strength of Hercules.
+384,2 class,I'm as strong as an army of ants.,I am very strong.,I was able to lift the heavy object easily because I'm as strong as an army of ants.
+385,2 class,My muscles are like iron.,My muscles are very strong.,I was able to carry the heavy load easily because my muscles are like iron.
+386,2 class,I have the strength of a giant.,I am very strong.,I was able to lift the large object all by myself because I have the strength of a giant.
+387,2 class,I'm as strong as a locomotive.,I am very strong.,I was able to lift the heavy object easily because I'm as strong as a locomotive.
+388,2 class,My grip is like a vice.,My grip is very strong.,I was able to hold onto the rope tightly because my grip is like a vice.
+389,2 class,I have the strength of a bear.,I am very strong.,I was able to lift the heavy object easily because I have the strength of a bear.
+390,2 class,I'm as strong as a hurricane.,I am very strong.,I was able to push the heavy object easily because I'm as strong as a hurricane.
+391,2 class,My legs are like tree trunks.,My legs are very strong.,I was able to run for a long time because my legs are like tree trunks.
+392,2 class,I have the strength of a rhinoceros.,I am very strong.,I was able to lift the heavy object all by myself because I have the strength of a rhinoceros.
+393,2 class,"I'm so weak, I couldn't lift a feather.",I am very weak.,"I'm so weak, I couldn't even lift a feather off the ground."
+394,2 class,I'm as weak as a kitten.,I am very weak.,"I couldn't even open the jar, I'm as weak as a kitten."
+395,2 class,My arms are like wet noodles.,My arms are very weak.,"I couldn't even carry the light bag, my arms are like wet noodles."
+396,2 class,"I'm so weak, I couldn't run a mile.",I am very weak.,"I'm so weak, I couldn't even run a mile without stopping."
+397,2 class,I'm as weak as a baby.,I am very weak.,"I couldn't even lift the small box, I'm as weak as a baby."
+398,2 class,My strength is like a wilting flower.,My strength is very weak.,"I couldn't even hold the door open, my strength is like a wilting flower."
+399,2 class,"I'm so weak, I couldn't even carry a backpack.",I am very weak.,"I'm so weak, I couldn't even carry a small backpack without getting tired."
+400,2 class,I'm as weak as a leaf.,I am very weak.,"I couldn't even lift the light book, I'm as weak as a leaf."
+401,2 class,My muscles are like jello.,My muscles are very weak.,"I couldn't even lift the light weight, my muscles are like jello."
+402,2 class,"I'm so weak, I couldn't even do one push-up.",I am very weak.,"I'm so weak, I couldn't even do one push-up without struggling."
+403,2 class,I'm as weak as a spiderweb.,I am very weak.,"I couldn't even lift the small toy, I'm as weak as a spiderweb."
+404,2 class,My strength is like a deflated balloon.,My strength is very weak.,"I couldn't even lift the light object, my strength is like a deflated balloon."
+405,2 class,"I'm so weak, I couldn't even lift a pencil.",I am very weak.,"I'm so weak, I couldn't even lift a pencil without straining."
+406,2 class,I'm as weak as a ghost.,I am very weak.,"I couldn't even lift the light object, I'm as weak as a ghost."
+407,2 class,My muscles are like tissue paper.,My muscles are very weak.,"I couldn't even carry the small box, my muscles are like tissue paper."
+408,2 class,"I'm so weak, I couldn't even climb a small hill.",I am very weak.,"I'm so weak, I couldn't even climb a small hill without getting tired."
+409,2 class,I'm as weak as a shadow.,I am very weak.,"I couldn't even lift the small book, I'm as weak as a shadow."
+410,2 class,My strength is like a dying battery.,My strength is very weak.,"I couldn't even lift the light object, my strength is like a dying battery."
+411,2 class,"I'm so weak, I couldn't even open a jar.",I am very weak.,"I'm so weak, I couldn't even open a jar without help."
+412,2 class,He is as tall as a giraffe.,He is very tall.,"He can reach the top shelf easily, he is as tall as a giraffe."
+413,2 class,"She is so tall, she can touch the ceiling.",She is very tall.,"She can easily touch the ceiling with her hands, she is so tall."
+414,2 class,He is as tall as a tree.,He is very tall.,"He towers over everyone, he is as tall as a tree."
+415,2 class,"She is so tall, she can see over the fence.",She is very tall.,"She can easily see over the fence without standing on her toes, she is so tall."
+416,2 class,He is as tall as a skyscraper.,He is very tall.,"He stands out in a crowd, he is as tall as a skyscraper."
+417,2 class,"She is so tall, she can see the top of the mountain.",She is very tall.,"She can easily see the top of the mountain without climbing, she is so tall."
+418,2 class,He is as tall as a basketball hoop.,He is very tall.,"He can easily dunk the ball, he is as tall as a basketball hoop."
+419,2 class,"She is so tall, she can see the stars.",She is very tall.,"She can easily see the stars without a telescope, she is so tall."
+420,2 class,He is as tall as a flagpole.,He is very tall.,"He can easily see the flag on top of the flagpole, he is as tall as a flagpole."
+421,2 class,"She is so tall, she can touch the sky.",She is very tall.,"She can easily touch the sky with her hands, she is so tall."
+422,2 class,He is as tall as a mountain.,He is very tall.,"He stands out in a crowd, he is as tall as a mountain."
+423,2 class,"She is so tall, she can see the horizon.",She is very tall.,"She can easily see the horizon without climbing, she is so tall."
+424,2 class,He is as tall as a lighthouse.,He is very tall.,"He can easily see the lighthouse from a distance, he is as tall as a lighthouse."
+425,2 class,"She is so tall, she can see the entire city.",She is very tall.,"She can easily see the entire city from the top of the building, she is so tall."
+426,2 class,He is as tall as a giant.,He is very tall.,"He dwarfs everyone around him, he is as tall as a giant."
+427,2 class,"She is so tall, she can touch the clouds.",She is very tall.,"She can easily touch the clouds with her hands, she is so tall."
+428,2 class,He is as tall as a mountain range.,He is very tall.,"He stands out in a crowd, he is as tall as a mountain range."
+429,2 class,"She is so tall, she can see the entire countryside.",She is very tall.,"She can easily see the entire countryside from a distance, she is so tall."
+430,2 class,He is as tall as a redwood tree.,He is very tall.,"He towers over everyone, he is as tall as a redwood tree."
+431,2 class,He is as small as a mouse.,He is very small.,"He can easily hide under the table, he is as small as a mouse."
+432,2 class,"She is so small, she can fit in a dollhouse.",She is very small.,"She can fit in the dollhouse without any problem, she is so small."
+433,2 class,He is as small as a peanut.,He is very small.,"He is easily overlooked, he is as small as a peanut."
+434,2 class,"She is so small, she can fit in a pocket.",She is very small.,"She can easily fit in your pocket, she is so small."
+435,2 class,He is as small as a ant.,He is very small.,"He is barely visible, he is as small as an ant."
+436,2 class,"She is so small, she can fit in a shoebox.",She is very small.,"She can easily fit in the shoebox, she is so small."
+437,2 class,He is as small as a button.,He is very small.,"He is easy to miss, he is as small as a button."
+438,2 class,"She is so small, she can ride on a toy car.",She is very small.,"She can easily ride on a toy car, she is so small."
+439,2 class,He is as small as a bug.,He is very small.,"He is easily overlooked, he is as small as a bug."
+440,2 class,"She is so small, she can hide behind a pencil.",She is very small.,"She can easily hide behind a pencil, she is so small."
+441,2 class,He is as small as a grape.,He is very small.,"He is easily overlooked, he is as small as a grape."
+442,2 class,"She is so small, she can fit in a teacup.",She is very small.,"She can easily fit in the teacup, she is so small."
+443,2 class,He is as small as a button on a shirt.,He is very small.,"He is easily overlooked, he is as small as a button on a shirt."
+444,2 class,"She is so small, she can fit in a basket.",She is very small.,"She can easily fit in the basket, she is so small."
+445,2 class,He is as small as a grain of sand.,He is very small.,"He is easily overlooked, he is as small as a grain of sand."
+446,2 class,"She is so small, she can ride on a toy train.",She is very small.,"She can easily ride on a toy train, she is so small."
+447,2 class,He is as small as a pebble.,He is very small.,"He is easily overlooked, he is as small as a pebble."
+448,2 class,"She is so small, she can fit in a jar.",She is very small.,"She can easily fit in the jar, she is so small."
+449,2 class,He is as small as a crumb.,He is very small.,"He is easily overlooked, he is as small as a crumb."
+450,2 class,"She is so small, she can fit in a backpack.",She is very small.,"She can easily fit in the backpack, she is so small."
+451,2 class,She has a mind as bright as the sun.,She is very intelligent.,"She always gets top grades, her mind is as bright as the sun."
+452,2 class,His future is as bright as a shooting star.,He has a very promising future.,"He is so talented, his future is as bright as a shooting star."
+453,2 class,She has a smile as bright as a rainbow.,She has a very beautiful smile.,"Whenever she smiles, it feels like a rainbow, her smile is as bright as a rainbow."
+454,2 class,His ideas are as bright as a light bulb.,He has very creative ideas.,"Whenever he shares his ideas, they are so unique and creative, they are as bright as a light bulb."
+455,2 class,She has a personality as bright as the sun.,She is very friendly and outgoing.,"She is always surrounded by friends, her personality is as bright as the sun."
+456,2 class,His eyes are as bright as stars.,He has very bright and expressive eyes.,"Whenever he talks, his eyes light up, they are as bright as stars."
+457,2 class,She has a future as bright as a diamond.,She has a very promising future.,"She is so talented and hardworking, her future is as bright as a diamond."
+458,2 class,His imagination is as bright as the sun.,He has a very vivid imagination.,"Whenever he tells a story, his imagination shines, it is as bright as the sun."
+459,2 class,She has a voice as bright as a bell.,She has a very beautiful singing voice.,"Whenever she sings, her voice rings out, it is as bright as a bell."
+460,2 class,His energy is as bright as a lightning bolt.,He has a lot of energy.,"Whenever he runs, he moves so fast, his energy is as bright as a lightning bolt."
+461,2 class,She has a mind as bright as a diamond.,She is very intelligent.,"Whenever she takes a test, she gets top grades, her mind is as bright as a diamond."
+462,2 class,His personality is as bright as a firework.,He is very outgoing and fun.,"Whenever he is around, he brings a lot of energy and fun, his personality is as bright as a firework."
+463,2 class,She has a smile as bright as the sun.,She has a very beautiful smile.,"Whenever she smiles, it feels like the sun is shining, her smile is as bright as the sun."
+464,2 class,His ideas are as bright as the sun.,He has very creative ideas.,"Whenever he shares his ideas, they are so unique and creative, they are as bright as the sun."
+465,2 class,She has a future as bright as a sunny day.,She has a very promising future.,"She is so talented and hardworking, her future is as bright as a sunny day."
+466,2 class,His imagination is as bright as a rainbow.,He has a very vivid imagination.,"Whenever he tells a story, his imagination shines, it is as bright as a rainbow."
+467,2 class,She has a voice as bright as the stars.,She has a very beautiful singing voice.,"Whenever she sings, her voice is so powerful, it is as bright as the stars."
+468,2 class,His energy is as bright as the sun.,He has a lot of energy.,"Whenever he plays, he moves so fast, his energy is as bright as the sun."
+227,3 class,A million times,An exaggeration meaning a lot or countless times,I've told you a million times to clean up your room!
+228,3 class,As big as a mountain,A comparison to something very large,The task ahead of me seems as big as a mountain.
+229,3 class,As light as a feather,A comparison to something very light,"The box was so light, it felt as light as a feather."
+230,3 class,As old as the hills,A comparison to something very old,"Grandma is as old as the hills, but she still loves to dance."
+231,3 class,As slow as a snail,A comparison to something moving very slowly,My little brother is as slow as a snail when he gets ready for school.
+232,3 class,As fast as lightning,A comparison to something moving very quickly,The cheetah ran as fast as lightning across the savannah.
+233,3 class,As tall as a giraffe,A comparison to something very tall,The basketball player was as tall as a giraffe.
+234,3 class,Bursting with joy,Being extremely happy and excited,"When my family surprised me with a trip to Disneyland, I was bursting with joy!"
+235,3 class,Chatterbox,Someone who talks a lot,My little sister is such a chatterbox!
+236,3 class,Crying a river,Crying a lot,"When my dog died, I cried a river of tears."
+237,3 class,Dancing in the streets,Celebrating or being very happy,"When our team won the championship, we were dancing in the streets."
+238,3 class,Eager beaver,Someone who is always ready and eager to do something,"My friend is such an eager beaver, she always finishes her homework first."
+239,3 class,Eat like a horse,To eat a lot,My dad can eat like a horse when he's really hungry.
+240,3 class,Flying high,Feeling very happy or excited,"When I got an A+ on my spelling test, I was flying high."
+241,3 class,Full of beans,Having lots of energy and enthusiasm,My little brother is always full of beans in the morning.
+242,3 class,Get a kick out of,To really enjoy something,I always get a kick out of playing with my friends at recess.
+243,3 class,Going bananas,Becoming very excited or crazy,"When we heard we were going to Disneyland, we all went bananas."
+244,3 class,Hard as a rock,Something that is very hard or difficult,The math problem was as hard as a rock.
+245,3 class,Head over heels,Being very excited or in love with something or someone,"When I saw the new puppy, I fell head over heels in love."
+246,3 class,Heart of gold,Someone who is kind and caring,"My grandmother has a heart of gold, she always takes care of us."
+247,3 class,Hit the roof,Getting very angry,"When my brother broke my toy, I hit the roof."
+248,3 class,Jumping for joy,Being very happy and excited,"When we won the game, we were jumping for joy."
+249,3 class,Knock your socks off,Something that is very impressive,"The fireworks show was so amazing, it knocked our socks off."
+250,3 class,Like a broken record,Repeating something over and over again,"My little sister keeps singing the same song, like a broken record."
+251,3 class,Like a fish out of water,Feeling uncomfortable or out of place,"When I first moved to a new school, I felt like a fish out of water."
+252,3 class,Best day ever,The most enjoyable or happiest day ever,Going to the amusement park was the best day ever!
+253,3 class,Best thing since sliced bread,Something that is considered great or helpful,My new computer is the best thing since sliced bread.
+254,3 class,Best thing ever,The most amazing thing ever,Swimming with dolphins was the best thing ever!
+255,3 class,Best friend in the world,A close and trusted friend,My best friend in the world always makes me laugh.
+256,3 class,Best player in the world,The most skilled player in the world,Messi is the best player in the world.
+257,3 class,Best gift ever,The most special or valuable gift ever received,The puppy my parents got me for my birthday was the best gift ever.
+258,3 class,Best movie of all time,The greatest movie ever made,The Godfather is considered by many to be the best movie of all time.
+259,3 class,Best book ever,The most engaging or enjoyable book ever read,Charlotte's Web is the best book ever.
+260,3 class,Best teacher ever,The most inspiring or helpful teacher ever had,Mrs. Johnson is the best teacher ever.
+261,3 class,Best dessert ever,The most delicious dessert ever tasted,This cheesecake is the best dessert ever.
+262,3 class,Best vacation ever,The most enjoyable or memorable vacation ever taken,Going to Hawaii was the best vacation ever.
+263,3 class,Best decision ever,The smartest or most successful decision ever made,Quitting my job to start my own business was the best decision ever.
+264,3 class,Best mom/dad ever,The most loving and caring mom or dad,"My mom is the best mom ever, she always knows what to do."
+265,3 class,Best artist in the world,The most talented artist in the world,Beyonce is the best artist in the world.
+266,3 class,Best game ever,The most entertaining or addictive game ever played,Minecraft is the best game ever.
+267,3 class,Best feeling in the world,The most joyful or satisfying feeling,The best feeling in the world is knowing that you are loved.
+268,3 class,Best pizza in the world,The most delicious pizza in the world,The pizza from Italy is considered the best pizza in the world.
+269,3 class,Best job ever,The most enjoyable or fulfilling job ever had,Being a professional athlete would be the best job ever.
+270,3 class,Best song ever,The most iconic or memorable song ever recorded,Bohemian Rhapsody by Queen is considered the best song ever.
+271,3 class,Best party ever,The most fun or memorable party ever attended,The best party ever was my friend's pool party last summer.
+272,3 class,Best beach ever,The most beautiful or peaceful beach ever visited,The best beach ever is the one I visited in Hawaii.
+273,3 class,Best adventure ever,The most exciting or thrilling adventure ever experienced,White water rafting was the best adventure ever.
+274,3 class,Best in the business,The most skilled or successful person in the industry,He is the best in the business when it comes to software development.
+275,3 class,Best workout ever,The most effective or satisfying workout ever done,The best workout ever was when I finished my first 5K.
+276,3 class,Best meal ever,The most delicious or satisfying meal ever eaten,The steak I had at the fancy restaurant was the best meal ever.
+277,3 class,Best shoes ever,The most comfortable or stylish shoes ever worn,These sneakers are the best shoes ever.
+278,3 class,Great as an elephant,Very large,The elephant in the zoo was great as an elephant.
+279,3 class,Great as a mountain,Huge or impressive,"The mountain was great as a mountain, standing tall and proud."
+280,3 class,Great as the sun,Bright and powerful,"The sun was shining great as the sun, lighting up the entire sky."
+281,3 class,Great as the ocean,Vast and deep,"The ocean was great as the ocean, stretching out as far as the eye could see."
+282,3 class,Great as a lion,Mighty and strong,"The lion roared great as a lion, announcing its presence to the world."
+283,3 class,Great as a bear,Powerful and intimidating,"The bear was great as a bear, making me tremble with fear."
+284,3 class,Great as a whale,Majestic and impressive,"The whale leapt out of the water great as a whale, leaving me in awe."
+285,3 class,Great as a castle,Magnificent and imposing,"The castle was great as a castle, standing tall and proud against the sky."
+286,3 class,Great as a tree,Strong and sturdy,"The tree was great as a tree, with roots that went deep into the ground."
+287,3 class,Great as a sword,Sharp and deadly,"The sword gleamed great as a sword, ready to do battle."
+288,3 class,Great as a storm,Powerful and destructive,"The storm raged great as a storm, tearing everything in its path."
+289,3 class,Great as a champion,Skilled and unbeatable,"The athlete was great as a champion, winning every competition she entered."
+290,3 class,Great as a king,Regal and powerful,"The king ruled great as a king, with his subjects bowing down to him."
+291,3 class,Great as a rocket,Fast and powerful,"The rocket soared great as a rocket, reaching incredible speeds."
+292,3 class,Great as a tornado,Destructive and unstoppable,"The tornado swept through the town great as a tornado, leaving destruction in its wake."
+293,3 class,Great as a dragon,Majestic and fearsome,"The dragon swooped down great as a dragon, breathing fire and striking fear into everyone's hearts."
+294,3 class,Great as a comet,Fast and bright,"The comet streaked across the sky great as a comet, lighting up the night with its brilliance."
+295,3 class,Great as a forest,Vast and dense,"The forest was great as a forest, with trees stretching out as far as the eye could see."
+296,3 class,Great as a storm cloud,Dark and foreboding,"The storm cloud loomed great as a storm cloud, casting a shadow over the entire landscape."
+297,3 class,Great as a hero,Brave and selfless,"The firefighter was great as a hero, risking his life to save others."
+298,3 class,Great as a phoenix,Majestic and mythical,"The phoenix rose from the ashes great as a phoenix, with its feathers glowing in the sunlight."
+299,3 class,Great as a volcano,Powerful and explosive,"The volcano erupted great as a volcano, spewing lava and ash into the sky."
+300,3 class,Great as a monster,Terrifying and monstrous,"The monster lurched forward great as a monster, ready to devour everything in its path."
+301,3 class,Great as a roller coaster,Thrilling and exciting,"The roller coaster sped down the track great as a roller coaster, sending my heart racing with excitement."
+302,3 class,Great as a canyon,Deep and awe-inspiring,"The canyon stretched out before me great as a canyon, with sheer walls that seemed to touch the sky."
+303,3 class,Scared stiff,Extremely afraid or terrified,"When the thunderstorm started, the dog was scared stiff and wouldn't stop shaking."
+304,3 class,Shaking like a leaf,Trembling with fear or nervousness,The little boy was shaking like a leaf when he saw the spider crawling towards him.
+305,3 class,Heart in my throat,Feeling extreme fear or nervousness,I was so nervous before the speech that my heart was in my throat the whole time.
+306,3 class,Jumping out of my skin,Extremely startled or scared,"When the cat suddenly jumped out of the bushes, I felt like I was jumping out of my skin."
+307,3 class,Scared out of my wits,Extremely frightened or terrified,"When the bear appeared out of nowhere, I was scared out of my wits and froze in place."
+308,3 class,Quaking in my boots,Trembling with fear or anxiety,I was quaking in my boots when I heard the loud bang in the middle of the night.
+309,3 class,Frightened to death,Extremely frightened or scared,The little girl was frightened to death when she heard the scary story at the campfire.
+310,3 class,Scared to death,Extremely scared or frightened,I was scared to death when the car almost hit me while I was crossing the street.
+311,3 class,Trembling in fear,Shaking with fear or terror,The small animal was trembling in fear when it saw the predator approaching.
+312,3 class,Terrified beyond belief,Extremely terrified or scared,The hiker was terrified beyond belief when he heard the loud growl of the bear.
+313,3 class,Petrified with fear,Completely frozen with fear,"When the snake appeared out of nowhere, I was petrified with fear and couldn't move."
+314,3 class,Running scared,Feeling extremely scared or frightened,The dog was running scared when it heard the loud noise from the fireworks.
+315,3 class,Scared to death,Extremely scared or frightened,I was scared to death when I saw the spider crawling towards me.
+316,3 class,Scared as a rabbit,Extremely scared or timid,The little boy was scared as a rabbit when he saw the big dog approaching.
+317,3 class,Scared silly,Extremely scared or frightened,The little girl was scared silly when she heard the ghost story at the sleepover.
+318,3 class,Terrified out of my mind,Extremely terrified or scared,I was terrified out of my mind when I heard the loud noise coming from the basement.
+319,3 class,Scared out of my skin,Extremely scared or startled,I was scared out of my skin when the cat suddenly jumped out from behind the couch.
+320,3 class,Shivering with fear,Trembling with fear or anxiety,The small animal was shivering with fear when it saw the predator approaching.
+321,3 class,Running for my life,Trying to escape a dangerous or scary situation,"When the big dog started chasing me, I ran for my life."
+322,3 class,Frightened half to death,Extremely frightened or scared,The little boy was frightened half to death when he saw the monster under his bed.
+323,3 class,Scared like a deer in headlights,Extremely scared or paralyzed with fear,The little girl was scared like a deer in headlights when she saw the big spider in her room.
+324,3 class,Scared witless,Extremely scared or terrified,"When the lightning struck, I was scared witless and ran inside."
+325,3 class,Shaking in my boots,Trembling with fear or anxiety,The small animal was shaking in its boots when it saw the predator approaching.
+326,3 class,As good as gold,Well-behaved or trustworthy,My little brother is as good as gold when he's at home.
+327,3 class,Good as new,In perfect condition or fully restored,"After cleaning the toy car, it looked as good as new."
+328,3 class,Good as it gets,The best possible,This is the best pizza in town. It's as good as it gets.
+329,3 class,Good enough to eat,Appealing or attractive,"The cupcakes she made were decorated so beautifully, they were good enough to eat."
+330,3 class,Good grief,Expression of surprise or shock,Good grief! Did you see that huge spider?
+331,3 class,Good as gone,Disappeared or lost,"When the wind caught my kite, it was as good as gone."
+332,3 class,Goodness gracious,Expression of surprise or amazement,"Goodness gracious, I can't believe how fast you can run!"
+333,3 class,Good to go,Ready or prepared,We have all the supplies we need for the picnic. We're good to go!
+334,3 class,Good Samaritan,A person who helps others in need,The man who found my lost dog was a real Good Samaritan.
+335,3 class,Good vibes,Positive energy or atmosphere,"The party had such good vibes, everyone was happy and dancing."
+336,3 class,Good as a laugh,Amusing or entertaining,"That movie was so good as a laugh, I laughed the whole time."
+337,3 class,Good riddance,Relief that someone or something is gone,"When my annoying neighbor moved away, it was good riddance."
+338,3 class,Good fortune,Good luck or success,Winning the lottery was good fortune for my family.
+339,3 class,Good shot,A skilled or successful attempt,You made a good shot in basketball when you scored that three-pointer.
+340,3 class,Good-natured,Friendly and kind,The old man was always good-natured with the children in the park.
+341,3 class,Good for nothing,Useless or unhelpful,My old phone was good for nothing after it broke.
+342,3 class,Good grief,Expression of surprise or shock,Good grief! Did you see that huge spider?
+343,3 class,Good for a song,Inexpensive or cheap,I found this beautiful vase at the flea market for a song.
+344,3 class,Good as a fiddle,In good health or condition,"After his check-up, the doctor said my grandpa was as good as a fiddle."
+345,3 class,Good hearted,Kind and generous,The woman at the animal shelter was a good-hearted person who loved animals.
+346,3 class,Good news travels fast,Positive information spreads quickly,"When the school announced the field trip, good news traveled fast."
+347,3 class,Good deal,A favorable or advantageous agreement,I got a good deal on my new bike.
+348,3 class,Good old days,A nostalgic term for a happy time in the past,My grandparents always talk about the good old days when they were young.
+349,3 class,Good for your health,Beneficial or healthy,Eating vegetables is good for your health.
+350,3 class,Good to the last drop,Very enjoyable or satisfying,"The hot cocoa was so good, I drank it all and enjoyed it to the last drop."
+351,3 class,Good as pie,Easy or effortless,"With practice, math can be as good as pie."
+352,3 class,Good taste,A sense of what is aesthetically pleasing,The artist had good taste in color and composition.
+353,3 class,Good vibrations,A positive or harmonious feeling,The audience felt the good vibrations when the band started playing.
+117,4 class,She's crying her eyes out.,Crying very intensely.,"When she lost her favorite toy, she started crying her eyes out."
+118,4 class,He's crying like a baby.,Crying uncontrollably.,"When he got a scrape on his knee, he started crying like a baby."
+119,4 class,It made me want to cry.,Very emotional or touching.,"When I saw the puppy in the animal shelter, it made me want to cry."
+120,4 class,She's crying a river.,Crying a lot of tears.,"When her cat ran away, she cried a river."
+121,4 class,He's crying his heart out.,Crying very intensely.,"When he didn't get the part in the school play, he started crying his heart out."
+122,4 class,It's enough to make you cry.,Very sad or disappointing.,The fact that so many people are hungry is enough to make you cry.
+123,4 class,She's crying a waterfall.,Crying a lot of tears.,"When she didn't get invited to the birthday party, she cried a waterfall."
+124,4 class,He's crying a bucket.,Crying a lot of tears.,"When he lost his favorite toy, he cried a bucket."
+125,4 class,It made me cry like a baby.,Very emotional or touching.,The movie was so sad that it made me cry like a baby.
+126,4 class,She's crying her heart and soul out.,Crying very intensely.,"When she didn't get picked for the kickball team, she started crying her heart and soul out."
+127,4 class,He's crying his eyes dry.,Crying so much that there are no more tears left.,"When his best friend moved away, he cried his eyes dry."
+128,4 class,It's enough to make you cry your eyes out.,Very sad or disappointing.,The fact that so many animals are mistreated is enough to make you cry your eyes out.
+129,4 class,She's crying a storm.,Crying a lot of tears.,"When she got in trouble with her teacher, she cried a storm."
+130,4 class,He's crying his eyes into a puddle.,Crying a lot of tears.,"When his sister took his toy, he cried his eyes into a puddle."
+131,4 class,It's a cry for help.,A signal that someone needs assistance or support.,"When he was feeling sad and alone, it was a cry for help."
+132,4 class,She's crying her soul out.,Crying very intensely.,"When she didn't get a good grade on her test, she started crying her soul out."
+133,4 class,He's crying like it's the end of the world.,Crying very intensely.,"When he broke his favorite toy, he started crying like it was the end of the world."
+134,4 class,It's enough to make you cry your heart out.,Very sad or disappointing.,The fact that so many people are sick is enough to make you cry your heart out.
+135,4 class,She's crying a lake.,Crying a lot of tears.,"When she got hurt playing outside, she cried a lake."
+136,4 class,He's crying his eyes out like a faucet.,Crying a lot of tears.,"When he got a bad grade on his test, he cried his eyes out like a faucet."
+137,4 class,It's raining cats and dogs.,Raining very heavily.,I can't go outside because it's raining cats and dogs.
+138,4 class,He's as fast as lightning.,Very fast.,"When he runs, he's as fast as lightning."
+139,4 class,She's as quiet as a mouse.,Very quiet.,"When she's in the library, she's as quiet as a mouse."
+140,4 class,It's as easy as pie.,Very easy.,Solving this math problem is as easy as pie.
+141,4 class,He's as stubborn as a mule.,Very stubborn.,"When he doesn't want to do something, he's as stubborn as a mule."
+142,4 class,She's as pretty as a picture.,Very pretty.,"When she dresses up for a party, she's as pretty as a picture."
+143,4 class,It's as hot as the sun.,Very hot.,"When we went to the beach, it was as hot as the sun."
+144,4 class,He's as brave as a lion.,Very brave.,"When he sees a spider, he's as brave as a lion."
+145,4 class,She's as sweet as sugar.,Very kind and pleasant.,"When she gives compliments, she's as sweet as sugar."
+146,4 class,It's as cold as ice.,Very cold.,"When we went skiing, it was as cold as ice."
+147,4 class,He's as strong as an ox.,Very strong.,"When he lifts weights, he's as strong as an ox."
+148,4 class,She's as smart as a whip.,Very intelligent.,"When she does math, she's as smart as a whip."
+149,4 class,It's as big as a house.,Very large.,"When we saw the elephant, it was as big as a house."
+150,4 class,He's as tall as a tree.,Very tall.,"When he stands up straight, he's as tall as a tree."
+151,4 class,She's as light as a feather.,Very light.,"When she jumps on the trampoline, she's as light as a feather."
+152,4 class,It's as smooth as silk.,Very smooth.,"When we petted the cat, its fur was as smooth as silk."
+153,4 class,He's as quiet as a church mouse.,Very quiet.,"When he's in the church, he's as quiet as a church mouse."
+154,4 class,She's as happy as a clam.,Very happy.,"When she gets ice cream, she's as happy as a clam."
+155,4 class,It's as loud as a lion's roar.,Very loud.,"When the thunderstorm hit, it was as loud as a lion's roar."
+156,4 class,He's as crazy as a loon.,Very crazy.,"When he tells jokes, he's as crazy as a loon."
+157,4 class,She's as busy as a bee.,Very busy.,"When she's doing her homework, she's as busy as a bee."
+158,4 class,It's as red as a tomato.,Very red.,"When we picked the apple, it was as red as a tomato."
+159,4 class,He's as sly as a fox.,Very sly.,"When he wants to play a prank, he's as sly as a fox."
+160,4 class,,,
+161,4 class,It's colder than the North Pole.,Extremely cold.,I don't want to go outside because it's colder than the North Pole.
+162,4 class,He gave me a cold stare.,A distant or unfriendly look.,"When I told him the bad news, he gave me a cold stare."
+163,4 class,I'm freezing to death.,Very cold.,I forgot my coat and now I'm freezing to death.
+164,4 class,It's so cold that my nose hairs are freezing.,Extremely cold.,It's so cold outside that my nose hairs are freezing.
+165,4 class,She's giving me the cold shoulder.,Ignoring or avoiding someone.,"Ever since our fight, she's been giving me the cold shoulder."
+166,4 class,He's as cold as ice.,Emotionally distant or unfeeling.,"Even when I told him about my problems, he was as cold as ice."
+167,4 class,It's as cold as a witch's heart.,Very cold.,"When we went camping in the winter, it was as cold as a witch's heart."
+168,4 class,She has a cold heart.,Emotionally unfeeling or uncaring.,"Even when her friend was going through a tough time, she had a cold heart."
+169,4 class,My feet are ice cubes.,Very cold feet.,"After playing in the snow, my feet felt like ice cubes."
+170,4 class,He's a cold fish.,Emotionally distant or unfeeling.,"Even when his team won the championship, he was a cold fish."
+171,4 class,The room is as cold as a refrigerator.,Very cold.,"When I walked into the room, it was as cold as a refrigerator."
+172,4 class,She's as cold as a snowman.,Emotionally distant or unfeeling.,"Even when her family is celebrating, she's as cold as a snowman."
+173,4 class,The ice is as cold as death.,Very cold ice.,"When we went ice skating, the ice was as cold as death."
+174,4 class,He's as cold as a cucumber.,Emotionally unflappable or calm.,"Even when he's under a lot of pressure, he's as cold as a cucumber."
+175,4 class,It's as cold as a corpse.,Very cold.,"When we went on a winter hike, it was as cold as a corpse."
+176,4 class,She's as cold as a frozen lake.,Emotionally distant or unfeeling.,"Even when her best friend is upset, she's as cold as a frozen lake."
+177,4 class,It's as cold as a polar bear's nose.,Very cold.,"When we went skiing, it was as cold as a polar bear's nose."
+178,4 class,He's as cold as a stone.,Emotionally unfeeling or uncaring.,"Even when his girlfriend broke up with him, he was as cold as a stone."
+179,4 class,It's as cold as the bottom of the ocean.,Very cold.,"When we went scuba diving, it was as cold as the bottom of the ocean."
+180,4 class,She's as cold as winter wind.,Emotionally distant or unfeeling.,"Even when her brother is in trouble, she's as cold as winter wind."
+181,4 class,It's as bright as the sun.,Very bright.,"When I turned on the lamp, it was as bright as the sun."
+182,4 class,The lightbulb is as hot as the sun.,Very hot lightbulb.,"When I changed the lightbulb, it was as hot as the sun."
+183,4 class,The room is as bright as day.,Very bright.,"When the curtains are open, the room is as bright as day."
+184,4 class,The flashlight is a million watts.,Extremely bright flashlight.,"When we went camping, the flashlight was a million watts."
+185,4 class,The light is blinding.,Extremely bright.,"When I looked directly at the light, it was blinding."
+186,4 class,The lamp is a supernova.,Extremely bright lamp.,"When I turned on the lamp, it was a supernova."
+187,4 class,The sun is a thousand candles.,Very bright sun.,"When the sun is shining, it's like a thousand candles."
+188,4 class,The light is a laser beam.,Extremely focused and intense light.,"When I turned on the light, it was like a laser beam."
+189,4 class,The candle is a beacon.,Very bright candle.,"When we had a power outage, the candle was a beacon."
+190,4 class,The light is a spotlight.,Extremely focused and intense light.,"When I turned on the light, it was like a spotlight."
+191,4 class,The light is like a thousand stars.,Very bright.,"When I turned on the light, it was like a thousand stars."
+192,4 class,The light is as white as snow.,Very bright and white.,"When I turned on the light, it was as white as snow."
+193,4 class,The light is like a thousand lightning bolts.,Very bright and intense.,"When I turned on the light, it was like a thousand lightning bolts."
+194,4 class,The light is a hundred lighthouses.,Extremely bright light.,"When I turned on the light, it was like a hundred lighthouses."
+195,4 class,The light is as clear as crystal.,Very clear and bright.,"When I turned on the light, it was as clear as crystal."
+196,4 class,The light is a thousand suns.,Extremely bright light.,"When I turned on the light, it was like a thousand suns."
+197,4 class,The light is as bright as the stars.,Very bright.,"When I turned on the light, it was as bright as the stars."
+198,4 class,The light is as pure as snow.,Very clear and bright.,"When I turned on the light, it was as pure as snow."
+199,4 class,The light is a million lumens.,Extremely bright light.,"When I turned on the light, it was a million lumens."
+200,4 class,The light is a thousand fireworks.,Extremely bright and colorful light.,"When I turned on the light, it was like a thousand fireworks."
+201,4 class,The light is as radiant as the sun.,Very bright and radiant.,"When I turned on the light, it was as radiant as the sun."
+202,4 class,The light is as bright as a diamond.,Very bright and clear.,"When I turned on the light, it was as bright as a diamond."
+203,4 class,Hotter than the sun,Extremely hot,"It's so hot outside today, it feels like I'm standing on the surface of the sun."
+204,4 class,Hotter than a jalapeno,Very spicy,"This salsa is so hot, it's like eating a whole jalapeno in one bite."
+205,4 class,Hotter than a sauna,Very warm,"It's so hot in this room, it feels like a sauna in here."
+206,4 class,Hotter than a firecracker,Very intense,"The argument between the two friends was so hot, it was like a firecracker exploding."
+207,4 class,Hotter than a pistol,Very angry,My mom was hotter than a pistol when she found out I broke the vase.
+208,4 class,Hotter than a frying pan,Very angry,My boss was hotter than a frying pan when he saw the mistake on the report.
+209,4 class,Hotter than a summer day,Very warm,"It's so hot today, it feels like a summer day in the middle of winter."
+210,4 class,Hotter than a matchstick,Very angry,"When the coach found out his team lost the game, he was hotter than a matchstick."
+211,4 class,Hotter than a barbecue grill,Very warm,"It's so hot outside today, it feels like standing next to a barbecue grill."
+212,4 class,Hotter than a steaming kettle,Very angry,My teacher was hotter than a steaming kettle when she caught me cheating on the test.
+213,4 class,Hotter than a pepperoni pizza,Very warm,"It's so hot in this room, it feels like sitting inside a pepperoni pizza oven."
+214,4 class,Hotter than a habanero pepper,Very spicy,"This salsa is so hot, it's like eating a habanero pepper with every bite."
+215,4 class,Hotter than a blowtorch,Very intense,The pressure to finish the project on time was hotter than a blowtorch.
+216,4 class,Hotter than a red pepper,Very spicy,"This chili is so hot, it's like eating a red pepper in one bite."
+217,4 class,Hotter than a furnace,Very warm,"It's so hot in here, it feels like standing next to a furnace."
+218,4 class,Hotter than a haboob,Very warm,"It's so hot outside, it feels like a haboob is blowing through the city."
+219,4 class,Hotter than a habanero,Very spicy,"This hot sauce is so hot, it's like eating a habanero with every spoonful."
+220,4 class,Hotter than a scorching desert,Very warm,"It's so hot outside, it feels like walking through a scorching desert."
+221,4 class,Hotter than a habanero chili,Very spicy,"This salsa is so hot, it's like eating a habanero chili with every bite."
+222,4 class,Hotter than a sauna in Death Valley,Extremely hot,"It's so hot outside, it feels like a sauna in Death Valley."
+223,4 class,Hotter than a jalapeno pepper,Very spicy,"This hot sauce is so hot, it's like eating a jalapeno pepper with every spoonful."
+224,4 class,Hotter than a cup of coffee,Very warm,"It's so hot in this room, it feels like sitting inside a cup of hot coffee."
+225,4 class,Hotter than a pepper spray,Very intense,The tension in the room was hotter than a pepper spray.
+226,4 class,Hotter than a plate of spicy wings,Very spicy,"This hot sauce is so hot, it's like eating a plate of spicy wings with every spoonful."
+1,5 class,I'm starving to death!,Exaggeration of hunger.,"I didn't eat breakfast this morning, and now I'm starving to death!"
+2,5 class,She cried a river of tears.,Exaggeration of tears.,"When her pet hamster died, she cried a river of tears."
+3,5 class,He's got eyes in the back of his head.,Exaggeration of awareness.,The teacher always catches us misbehaving; he's got eyes in the back of his head.
+4,5 class,That backpack weighs a ton.,Exaggeration of weight.,My backpack is so heavy; it weighs a ton!
+5,5 class,I've been waiting for hours!,Exaggeration of time.,We've been waiting for the bus for hours!
+6,5 class,This book is as old as the hills.,Exaggeration of age.,My grandparents have a book that's as old as the hills.
+7,5 class,She's as quiet as a mouse.,Exaggeration of quietness.,"In class, she's as quiet as a mouse."
+8,5 class,He's a walking encyclopedia.,Exaggeration of knowledge.,"Whenever we have a question in class, he knows the answer; he's a walking encyclopedia."
+9,5 class,I could sleep for a week.,Exaggeration of tiredness.,I had so much homework last night that I'm exhausted; I could sleep for a week.
+10,5 class,He's as fast as lightning.,Exaggeration of speed.,"In track and field, he's as fast as lightning."
+11,5 class,She's a shining star.,Exaggeration of talent.,"In the school play, she was the lead role and shone like a shining star."
+12,5 class,That test was a piece of cake.,Exaggeration of easiness.,"I studied hard for the test, but it was a piece of cake."
+13,5 class,He's got a heart of gold.,Exaggeration of kindness.,He volunteers at the animal shelter every weekend; he's got a heart of gold.
+14,5 class,The water is freezing cold.,Exaggeration of coldness.,"I went swimming in the lake, and the water was freezing cold."
+15,5 class,The line for the amusement park ride was a mile long.,Exaggeration of length.,The line for the new roller coaster was a mile long.
+16,5 class,I'm drowning in homework.,Exaggeration of amount.,I have so much homework tonight that I'm drowning in it.
+17,5 class,The music was so loud that my ears are ringing.,Exaggeration of volume.,"At the concert, the music was so loud that my ears are still ringing."
+18,5 class,The stadium was packed to the rafters.,Exaggeration of fullness.,The stadium was packed to the rafters for the championship game.
+19,5 class,I've told you a million times.,Exaggeration of repetition.,I've told you a million times to put your dishes in the dishwasher.
+20,5 class,She's as light as a feather.,Exaggeration of weight.,"When I picked her up, she was as light as a feather."
+21,5 class,He's a giant among men.,Exaggeration of size.,"In basketball, he's a giant among men."
+22,5 class,I'm on top of the world!,Feeling of extreme happiness or success.,"After getting an A on my science project, I'm on top of the world!"
+23,5 class,The cake is top-notch.,Extremely high quality or excellence.,This bakery always has top-notch cakes.
+24,5 class,He's the top dog in his field.,The most successful or respected person in a particular field.,"In the world of computer science, Bill Gates is the top dog."
+25,5 class,That's over the top.,Excessive or unnecessary.,Decorating your house with a thousand Christmas lights is a bit over the top.
+26,5 class,She's a top performer.,A person who consistently achieves excellent results.,"In dance class, she's a top performer."
+27,5 class,I'm at the top of my game.,Performing at the highest level of one's ability.,"After years of practice, I'm finally at the top of my game."
+28,5 class,The view from the top is breathtaking.,The view from the highest point is extremely beautiful.,"When we climbed to the top of the mountain, the view was breathtaking."
+29,5 class,He's at the top of his class.,The student with the highest grades or academic performance.,"In his class, he's at the top of the leaderboard."
+30,5 class,The concert was a top-notch experience.,An experience of the highest quality or excellence.,The concert was a top-notch experience with amazing music and special effects.
+31,5 class,That's the cherry on top.,Something that makes a situation even better.,"Winning the game was great, but getting a trophy was the cherry on top."
+32,5 class,She's at the top of her game in basketball.,Performing at the highest level of one's ability in a particular sport.,"In basketball, she's at the top of her game and leads the team to victory."
+33,5 class,That's over the top crazy.,Extremely crazy or absurd.,Wearing a giant chicken suit to school is over the top crazy.
+34,5 class,The cake is top-shelf quality.,Extremely high quality or excellence.,This bakery always has top-shelf cakes with the best ingredients.
+35,5 class,She's a top-notch student.,A student who consistently achieves excellent academic performance.,"In her school, she's known as a top-notch student with straight A's."
+36,5 class,I'm on top of the world after the promotion.,Feeling of extreme happiness or success after receiving a promotion.,"After getting promoted to manager, I'm on top of the world!"
+37,5 class,That's over the top delicious.,Extremely delicious or tasty.,"This chocolate cake is over the top delicious with rich, creamy frosting."
+38,5 class,He's the top athlete in his school.,The most successful or respected athlete in a particular school.,"In his school, he's the top athlete and has won many awards in various sports."
+39,5 class,The view from the top is top-notch.,The view from the highest point is of the highest quality or excellence.,"When we climbed to the top of the building, the view was top-notch with a stunning skyline."
+40,5 class,She's a top contender for the scholarship.,A person who is likely to receive a scholarship due to their achievements or qualifications.,"With her excellent grades and extracurricular activities, she's a top contender for the scholarship."
+41,5 class,"I'm so sad, I could cry a river.",Feeling extremely sad or upset.,"After losing my favorite toy, I'm so sad I could cry a river."
+42,5 class,My heart is heavy with sadness.,Feeling deep sorrow or grief.,"After hearing about the tragic news, my heart is heavy with sadness."
+43,5 class,He's as sad as a puppy without a bone.,Expressing extreme sadness or disappointment.,"When he lost the championship game, he was as sad as a puppy without a bone."
+44,5 class,The news is really sad.,A situation or event that is depressing or sorrowful.,The news of the natural disaster is really sad and devastating.
+45,5 class,She's a sad sight to see.,A person who appears unhappy or distressed.,"After breaking up with her boyfriend, she's a sad sight to see with puffy eyes and a frown."
+46,5 class,It's a sad day when you lose a friend.,A situation or event that is emotionally difficult or challenging.,It's a sad day when you lose a friend and have to say goodbye.
+47,5 class,He's in a sad state of affairs.,A person who is experiencing a difficult or challenging situation.,"After losing his job and getting sick, he's in a sad state of affairs."
+48,5 class,She's sad as a wilted flower.,Expressing extreme sadness or disappointment.,"After failing her math test, she's sad as a wilted flower and doesn't want to talk to anyone."
+49,5 class,The movie had a sad ending.,A situation or event that evokes sadness or sorrow.,The movie had a sad ending with the main character dying at the end.
+50,5 class,She's sad as a clown without a smile.,Expressing extreme sadness or disappointment.,"After her best friend moved away, she's sad as a clown without a smile."
+51,5 class,He's a sad sack.,A person who is always unhappy or negative.,He's always complaining and being negative - he's such a sad sack.
+52,5 class,That's a sad excuse for a meal.,A situation or event that is unsatisfactory or disappointing.,The cafeteria's food is a sad excuse for a meal with soggy sandwiches and stale chips.
+53,5 class,She's as sad as the day is long.,Expressing extreme sadness or disappointment.,"After losing her beloved pet, she's as sad as the day is long."
+54,5 class,The painting is a sad reflection of the artist's skill.,A situation or event that is disappointing or unsatisfactory.,The painting is a sad reflection of the artist's skill with uneven brushstrokes and dull colors.
+55,5 class,"He's so sad, he's like a raincloud.",Feeling extremely sad or upset.,"After his favorite toy was broken, he's so sad he's like a raincloud."
+56,5 class,That's a sad state of affairs.,A situation or event that is difficult or challenging.,The current political situation is a sad state of affairs with corruption and scandal.
+57,5 class,She's sad as a lost puppy.,Expressing extreme sadness or disappointment.,"After being rejected from the school play, she's sad as a lost puppy."
+58,5 class,I'm so happy I could jump for joy.,Feeling extremely happy or excited.,"After getting an A on my test, I'm so happy I could jump for joy."
+59,5 class,My heart is bursting with happiness.,Feeling intense joy or pleasure.,"When I saw my grandparents after a long time, my heart was bursting with happiness."
+60,5 class,He's as happy as a clam at high tide.,Expressing extreme happiness or contentment.,"When he got the new video game, he was as happy as a clam at high tide."
+61,5 class,The news makes me really happy.,A situation or event that brings joy or pleasure.,The news of my cousin's engagement makes me really happy and excited.
+62,5 class,She's a happy camper.,A person who is content or satisfied with their situation.,"After getting her dream job, she's a happy camper and always has a smile on her face."
+63,5 class,It's a happy day when you make a new friend.,A situation or event that is positive or enjoyable.,It's a happy day when you make a new friend and have someone to hang out with.
+64,5 class,He's in a happy state of mind.,A person who is experiencing positive emotions or feelings.,"After winning the championship game, he's in a happy state of mind."
+65,5 class,She's happy as a lark.,Expressing extreme happiness or contentment.,"After getting the puppy she always wanted, she's happy as a lark."
+66,5 class,The movie had a happy ending.,A situation or event that evokes joy or pleasure.,The movie had a happy ending with the main character finding true love.
+67,5 class,She's happy as a kid in a candy store.,Expressing extreme happiness or excitement.,"When she got to go to Disney World, she was happy as a kid in a candy store."
+68,5 class,He's a happy-go-lucky guy.,A person who is carefree or lighthearted.,He never worries about anything - he's such a happy-go-lucky guy.
+69,5 class,That's a happy medium.,A situation or event that is satisfactory or balanced.,The temperature in the room is a happy medium - not too hot or too cold.
+70,5 class,She's as happy as a pig in mud.,Expressing extreme happiness or contentment.,"After getting a new bike for her birthday, she was as happy as a pig in mud."
+71,5 class,The party was a happy affair.,A situation or event that is enjoyable or pleasant.,"The birthday party was a happy affair with balloons, cake, and music."
+72,5 class,"He's so happy, he's like a ray of sunshine.",Feeling extremely happy or content.,"After getting a promotion at work, he's so happy he's like a ray of sunshine."
+73,5 class,That's a happy thought.,A situation or event that is positive or optimistic.,The idea of going on vacation is a happy thought and something to look forward to.
+74,5 class,She's happy as a clam.,Expressing extreme happiness or contentment.,"After finishing her book, she was happy as a clam and didn't want to put it down."
+75,5 class,It's a happy coincidence.,A situation or event that is fortunate or lucky.,Running into my old friend was a happy coincidence - we had lost touch for years.
+76,5 class,It's as hard as nails.,Very tough or difficult.,"The math problem was as hard as nails, and I had to ask for help."
+77,5 class,I've been working hard all day.,Exerting a lot of effort or energy.,I've been working hard all day to finish my project before the deadline.
+78,5 class,That test was hard as heck.,Very difficult or challenging.,"The history test was hard as heck, and I studied for hours to prepare."
+79,5 class,It's hard as iron.,Very tough or durable.,The diamond is hard as iron and can cut through almost anything.
+80,5 class,He's working hard as a dog.,Exerting a lot of effort or energy.,He's been working hard as a dog to finish the construction project on time.
+81,5 class,It's a hard pill to swallow.,A difficult or unpleasant truth to accept.,"Losing the game was a hard pill to swallow, but we learned from our mistakes."
+82,5 class,It's a hard knock life.,A difficult or challenging life.,"Growing up in poverty can be a hard knock life, but it teaches you resilience."
+83,5 class,He's been hitting the books hard.,Studying intensely or diligently.,He's been hitting the books hard to prepare for his upcoming exams.
+84,5 class,It's a hard fact.,A difficult or unpleasant truth.,The fact that he lied to us was a hard fact to accept.
+85,5 class,I'm working hard as a bee.,Exerting a lot of effort or energy.,I'm working hard as a bee to finish my science project before the due date.
+86,5 class,It's a hard row to hoe.,A difficult or challenging task.,"Raising three kids on her own is a hard row to hoe, but she manages."
+87,5 class,The problem is hard as a rock.,Very difficult or challenging.,"Solving the puzzle was hard as a rock, and it took me hours to complete."
+88,5 class,I'm trying hard as I can.,Exerting a lot of effort or energy.,I'm trying hard as I can to make a good impression on my new teacher.
+89,5 class,That lesson was hard as nails.,Very difficult or challenging.,"Learning algebra was hard as nails, but with practice, I got better."
+90,5 class,It's hard as granite.,Very tough or durable.,"The mountain is hard as granite, and it's difficult to climb."
+91,5 class,He's been working hard as a horse.,Exerting a lot of effort or energy.,He's been working hard as a horse to prepare for the marathon.
+92,5 class,It's a hard sell.,A difficult or challenging item to market or persuade someone to buy.,Selling a car with a lot of miles on it can be a hard sell.
+93,5 class,That workout was hard as heck.,Very challenging or strenuous.,"The workout was hard as heck, but it felt good to push myself."
+94,5 class,I'm trying hard as nails.,Exerting a lot of effort or energy.,I'm trying hard as nails to improve my basketball skills.
+95,5 class,It's a hard truth to face.,A difficult or unpleasant truth to accept.,"The fact that she was moving away was a hard truth to face, but we stayed in touch."
+96,5 class,She's crying her eyes out.,Crying very intensely.,"When she heard the news, she started crying her eyes out."
+97,5 class,He's crying like a baby.,Crying uncontrollably.,"When he didn't get what he wanted, he started crying like a baby."
+98,5 class,It made me want to cry.,Very emotional or touching.,The movie was so sad that it made me want to cry.
+99,5 class,She's crying a river.,Crying a lot of tears.,"When she found out her dog had died, she started crying a river."
+100,5 class,He's crying his heart out.,Crying very intensely.,"When he lost the championship game, he started crying his heart out."
+101,5 class,It's enough to make you cry.,Very sad or disappointing.,The fact that so many people are homeless is enough to make you cry.
+102,5 class,She's crying a waterfall.,Crying a lot of tears.,"When her parents got divorced, she cried a waterfall."
+103,5 class,He's crying a bucket.,Crying a lot of tears.,"When he broke his arm, he cried a bucket."
+104,5 class,It made me cry like a baby.,Very emotional or touching.,The graduation ceremony was so moving that it made me cry like a baby.
+105,5 class,She's crying her heart and soul out.,Crying very intensely.,"When she got into a fight with her best friend, she started crying her heart and soul out."
+106,5 class,He's crying his eyes dry.,Crying so much that there are no more tears left.,"When he lost his job, he cried his eyes dry."
+107,5 class,It's enough to make you cry your eyes out.,Very sad or disappointing.,The fact that so many animals are abused is enough to make you cry your eyes out.
+108,5 class,She's crying a storm.,Crying a lot of tears.,"When she failed her driving test, she cried a storm."
+109,5 class,He's crying his eyes into a puddle.,Crying a lot of tears.,"When his girlfriend broke up with him, he cried his eyes into a puddle."
+110,5 class,It's a cry for help.,A signal that someone needs assistance or support.,"When he started acting out, it was a cry for help."
+111,5 class,She's crying her soul out.,Crying very intensely.,"When she lost her grandmother, she started crying her soul out."
+112,5 class,He's crying like it's the end of the world.,Crying very intensely.,"When he got a bad grade on his report card, he started crying like it was the end of the world."
+113,5 class,It's enough to make you cry your heart out.,Very sad or disappointing.,The fact that so many children go hungry is enough to make you cry your heart out.
+114,5 class,She's crying a lake.,Crying a lot of tears.,"When she got into a fight with her sister, she cried a lake."
+115,5 class,He's crying his eyes out like a faucet.,Crying a lot of tears.,"When his dog died, he cried his eyes out like a faucet."
+116,5 class,It made me cry a river.,Very emotional or touching.,The wedding was so beautiful that it made me cry a river.
+574,Prep Class,As fast as a racecar,Very fast,The car zoomed by as fast as a racecar.
+575,Prep Class,As slow as a turtle,Very slow,The snail moved as slow as a turtle.
+576,Prep Class,As big as a house,Very big,The elephant was as big as a house.
+577,Prep Class,As small as a mouse,Very small,The baby mouse was as small as a pea.
+578,Prep Class,As loud as thunder,Very loud,The fireworks were as loud as thunder.
+579,Prep Class,As quiet as a mouse,Very quiet,The cat crept up as quiet as a mouse.
+580,Prep Class,As strong as a superhero,Very strong,The weightlifter was as strong as a superhero.
+581,Prep Class,As weak as a kitten,Very weak,The sick cat was as weak as a kitten.
+582,Prep Class,As bright as the sun,Very bright,The sun was shining as bright as the sun.
+583,Prep Class,As shiny as a star,Very shiny,The diamond was as shiny as a star.
+584,Prep Class,As colorful as a rainbow,Very colorful,The painting was as colorful as a rainbow.
+585,Prep Class,As tasty as candy,Very tasty,The cake was as tasty as candy.
+586,Prep Class,As sleepy as a bear,Very sleepy,The child was as sleepy as a bear.
+587,Prep Class,As busy as a bee,Very busy,The worker was as busy as a bee.
+588,Prep Class,As sweet as honey,Very sweet,The dessert was as sweet as honey.
+589,Prep Class,As sour as vinegar,Very sour,The lemon was as sour as vinegar.
+590,Prep Class,As brave as a lion,Very brave,The soldier was as brave as a lion.
+591,Prep Class,As scared as a mouse,Very scared,The child was as scared as a mouse.
+592,Prep Class,As happy as a clam,Very happy,The child was as happy as a clam.
+593,Prep Class,As sad as a puppy,Very sad,The dog was as sad as a puppy.
+594,Prep Class,As hot as a volcano,Very hot,The lava was as hot as a volcano.
+595,Prep Class,As cold as ice,Very cold,The ice cube was as cold as ice.
+596,Prep Class,As smart as a fox,Very smart,The student was as smart as a fox.
+597,Prep Class,As silly as a clown,Very silly,The child was as silly as a clown.
+598,Prep Class,As calm as a lake,Very calm,The water was as calm as a lake.
+599,Prep Class,As wild as a jungle,Very wild,The animals were as wild as a jungle.
+600,Prep Class,As beautiful as a flower,Very beautiful,The garden was as beautiful as a flower.
+601,Prep Class,As ugly as a toad,Very ugly,The monster was as ugly as a toad.
+602,Prep Class,As light as a cloud,Very light,The feather was as light as a cloud.
+603,Prep Class,As heavy as a boulder,Very heavy,The rock was as heavy as a boulder.
+604,Prep Class,As tall as a tree,Very tall,The giraffe was as tall as a tree.
+605,Prep Class,As short as a duck,Very short,The penguin was as short as a duck.
+606,Prep Class,As smooth as silk,Very smooth,The skin was as smooth as silk.
+607,Prep Class,As rough as sandpaper,Very rough,The rock was as rough as sandpaper.
+608,Prep Class,As hungry as a bear,Very hungry,The child was as hungry as a bear.
+609,Prep Class,As thirsty as a desert,Very thirsty,The hiker was as thirsty as a desert.
+610,Prep Class,I'm so hungry I could eat a horse,I am very hungry,"I didn't eat breakfast, so I'm so hungry I could eat a horse."
+611,Prep Class,It's raining cats and dogs,It's raining very heavily,We can't go outside to play because it's raining cats and dogs.
+612,Prep Class,I have a million things to do,I have a lot of things to do,"I can't play right now, I have a million things to do."
+613,Prep Class,My backpack weighs a ton,My backpack is very heavy,I can barely carry my backpack because it weighs a ton.
+614,Prep Class,I have eyes in the back of my head,I am aware of everything happening around me,"My mom always knows what I'm doing, it's like she has eyes in the back of her head."
+615,Prep Class,I could sleep for a week,I am very tired,"I stayed up too late last night, I could sleep for a week."
+616,Prep Class,I'm so excited I could burst,I am very excited,I'm going to Disneyland tomorrow and I'm so excited I could burst.
+617,Prep Class,I've told you a million times,I have told you many times,I've told you a million times to clean up your toys.
+618,Prep Class,It's hotter than the sun,It is very hot,"It's so hot outside, it's hotter than the sun."
+619,Prep Class,I'm as hungry as a bear,I am very hungry,"I didn't eat lunch today, so I'm as hungry as a bear."
+620,Prep Class,I have a memory like an elephant,I have a good memory,"I can remember all my friends' phone numbers, I have a memory like an elephant."
+621,Prep Class,My backpack is a bottomless pit,My backpack can hold a lot of things,"I have all my school supplies in my backpack, it's like a bottomless pit."
+622,Prep Class,I could eat a whole pizza by myself,I am very hungry,"I haven't eaten all day, I could eat a whole pizza by myself."
+623,Prep Class,I'm so tired I could sleep standing up,I am very tired,"I've been running around all day, I'm so tired I could sleep standing up."
+624,Prep Class,I could run a marathon right now,I have a lot of energy,"I had a good breakfast, I could run a marathon right now."
+625,Prep Class,I'm as fast as a cheetah,I can run very fast,I won the race because I'm as fast as a cheetah.
+626,Prep Class,I could drink a lake of water,I am very thirsty,"I played outside all day, I could drink a lake of water."
+627,Prep Class,I could climb a mountain,I am very strong,"I lifted all the heavy boxes by myself, I could climb a mountain."
+628,Prep Class,My teacher is a genius,My teacher is very smart,"My teacher knows the answer to every question, she's a genius."
+629,Prep Class,I have a nose like a bloodhound,I have a good sense of smell,"I can smell cookies baking from a mile away, I have a nose like a bloodhound."
+630,Prep Class,I have ears like a bat,I have good hearing,"I can hear a whisper from across the room, I have ears like a bat."
+631,Prep Class,I'm as happy as a clam,I am very happy,"I got an A on my test, I'm as happy as a clam."
+632,Prep Class,I could eat a horse,Very hungry,"I'm so hungry, I could eat a horse!"
+633,Prep Class,I ate a ton of food,Ate a lot,I ate a ton of food at the party yesterday.
+634,Prep Class,I could eat my weight in ice cream,Loves ice cream,"I love ice cream so much, I could eat my weight in it!"
+635,Prep Class,I've been eating nonstop,Eating a lot,I've been eating nonstop since I woke up this morning.
+636,Prep Class,I could eat a whole pizza by myself,Hungry and likes pizza,I'm so hungry and I love pizza so much that I could eat a whole pizza by myself.
+637,Prep Class,I've been eating like a pig,Eating a lot,"I've been eating like a pig lately, I need to slow down."
+638,Prep Class,I eat candy like it's going out of style,Loves candy,"I love candy so much, I eat it like it's going out of style."
+639,Prep Class,"I'm so hungry, I could eat my shoe",Very hungry,"I haven't eaten in hours, I'm so hungry I could eat my shoe!"
+640,Prep Class,I eat breakfast like a king,Eats a big breakfast,"I always eat a big breakfast, I eat like a king in the morning."
+641,Prep Class,I'm always hungry,Always hungry,"I'm always hungry, I feel like I could eat all day."
+642,Prep Class,"I eat so much, I must have a hollow leg",Eats a lot,"I eat so much, I must have a hollow leg!"
+643,Prep Class,"I eat so much, I should be a sumo wrestler",Eats a lot,"I eat so much, I should be a sumo wrestler."
+644,Prep Class,I'm a bottomless pit when it comes to food,Eats a lot,"I can never seem to get full, I'm a bottomless pit when it comes to food."
+645,Prep Class,I eat veggies like they're going out of style,Loves vegetables,"I love vegetables so much, I eat them like they're going out of style."
+646,Prep Class,I eat a million apples a day,Eats a lot of apples,"I love apples so much, I eat a million of them a day."
+647,Prep Class,"I'm so hungry, I could eat a whole cow",Very hungry,"I haven't eaten in so long, I'm so hungry I could eat a whole cow."
+648,Prep Class,I eat like a bird,Eats very little,"I don't eat very much, I eat like a bird."
+649,Prep Class,"I eat so much, I must have a bottomless stomach",Eats a lot,"I eat so much, I must have a bottomless stomach."
+650,Prep Class,"I eat so much, I could feed a small army",Eats a lot,"I eat so much, I could feed a small army."
+651,Prep Class,I'm starving to death,Very hungry,"I haven't eaten in hours, I feel like I'm starving to death."
+652,Prep Class,I eat spaghetti like a pro,Eats spaghetti well,"I love spaghetti so much, I eat it like a pro."
+653,Prep Class,I could eat a whole field of corn,Very hungry,"I'm so hungry, I could eat a whole field of corn."
+654,Prep Class,I eat fruit like it's my job,Loves fruit,"I love fruit so much, I eat it like it's my job."
+655,Prep Class,I'm as happy as a clam,Expressing great happiness,"I'm as happy as a clam, playing with my friends!"
+656,Prep Class,I'm over the moon happy,Expressing great happiness and excitement,"I'm over the moon happy, because I got a new toy!"
+657,Prep Class,I'm happy as a lark,Expressing great happiness,"I'm happy as a lark, because it's a beautiful day!"
+658,Prep Class,I'm as happy as can be,Expressing great happiness,"I'm as happy as can be, because I'm spending time with my family!"
+659,Prep Class,I'm happy-go-lucky,Expressing a carefree and happy attitude,"I'm happy-go-lucky, enjoying my day with a smile!"
+660,Prep Class,I'm tickled pink,Expressing happiness and amusement,"I'm tickled pink, because my joke made everyone laugh!"
+661,Prep Class,I'm on top of the world,Expressing great happiness and satisfaction,"I'm on top of the world, because I just won a game!"
+662,Prep Class,I'm as happy as a kid in a candy store,Expressing great happiness and excitement,"I'm as happy as a kid in a candy store, because I can pick any candy I want!"
+663,Prep Class,I'm ecstatic,Expressing extreme happiness,"I'm ecstatic, because I got the gift I always wanted!"
+664,Prep Class,I'm as happy as a butterfly in a flower garden,Expressing great happiness and contentment,"I'm as happy as a butterfly in a flower garden, because everything is so beautiful!"
+665,Prep Class,I'm as happy as a pig in mud,Expressing great happiness and satisfaction,"I'm as happy as a pig in mud, playing in the dirt!"
+666,Prep Class,I'm on cloud nine,Expressing great happiness and excitement,"I'm on cloud nine, because I just got an A+ on my test!"
+667,Prep Class,I'm grinning from ear to ear,Expressing great happiness and joy,"I'm grinning from ear to ear, because I just had a great time!"
+668,Prep Class,I'm as happy as a bee in a flower field,Expressing great happiness and joy,"I'm as happy as a bee in a flower field, because everything is so sweet!"
+669,Prep Class,I'm as happy as a clam at high water,Expressing great happiness,"I'm as happy as a clam at high water, because everything is going well!"
+670,Prep Class,I'm beaming with happiness,Expressing great happiness and joy,"I'm beaming with happiness, because everything is so wonderful!"
+671,Prep Class,I'm as happy as a bird with a worm,Expressing great happiness,"I'm as happy as a bird with a worm, because everything is going my way!"
+672,Prep Class,I'm on a happiness high,Expressing great happiness and joy,"I'm on a happiness high, because everything is so amazing!"
+673,Prep Class,I'm as happy as a kitten with a ball of yarn,Expressing great happiness and joy,"I'm as happy as a kitten with a ball of yarn, because everything is so fun!"
+674,Prep Class,I'm as happy as a clam in a bucket of chowder,Expressing great happiness,"I'm as happy as a clam in a bucket of chowder, because everything is so tasty!"
+675,Prep Class,I'm as happy as a turtle in a pond,Expressing great happiness,"I'm as happy as a turtle in a pond, because everything is so calm and peaceful!"
+676,Prep Class,Loud as thunder,Very loud,"The thunder outside was so loud, it sounded like a bomb going off."
+677,Prep Class,Loads of fun,A lot of fun,The carnival was loads of fun.
+678,Prep Class,Light as a feather,Very light,The paper airplane was as light as a feather.
+679,Prep Class,Laughing my head off,Laughing a lot,"The joke was so funny, I was laughing my head off."
+680,Prep Class,Lived happily ever after,A happy ending,The prince and princess fell in love and lived happily ever after.
+681,Prep Class,Long as a train,Very long,The line of cars waiting to get into the amusement park was long as a train.
+682,Prep Class,Like a zoo,Very chaotic,The classroom was like a zoo when the substitute teacher was there.
+683,Prep Class,Lost my mind,Confused or overwhelmed,"When I couldn't find my keys, I thought I had lost my mind."
+684,Prep Class,Loaded with money,Having a lot of money,The millionaire was loaded with money.
+685,Prep Class,Dancing like crazy,Dancing energetically,She was dancing like crazy at the party.
+686,Prep Class,Dizzy with excitement,Very excited,The children were dizzy with excitement when they saw the magician perform.
+687,Prep Class,Delicious as candy,Very tasty,The ice cream was delicious as candy.
+688,Prep Class,Drank like a fish,Drinking a lot,He drank like a fish at the party.
+689,Prep Class,Dull as dishwater,Very boring,The lecture was as dull as dishwater.
+690,Prep Class,Drenched to the bone,Completely soaked,"After playing in the rain, the kids were drenched to the bone."
+691,Prep Class,Dream come true,A wish fulfilled,Going to Disneyland was a dream come true for the little girl.
+692,Prep Class,Driving me crazy,Making me feel insane,The constant noise from the construction outside was driving me crazy.
+693,Prep Class,Diamond in the rough,A good person or thing with unpolished qualities,"He's not the most polished speaker, but he's a diamond in the rough."
+694,Prep Class,Doing cartwheels,Being extremely happy,"When he found out he got an A on his test, he was doing cartwheels."

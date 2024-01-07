@@ -1,0 +1,148 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  color: #333333;
+}
+
+.container {
+  width: 1200px;
+  margin: 0px auto;
+}
+
+.section {
+  padding: 70px 0px;
+}
+
+.row {
+  display: flex;
+}
+
+.col {
+  max-width: 100%;
+  width: 100%;
+}
+
+.col-one-third {
+  max-width: 75% !important;
+  width: 100%;
+}
+
+.col-half {
+  max-width: 50% !important;
+  width: 100%;
+}
+
+.col-one-half {
+  max-width: 25% !important;
+  width: 100%;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.mb-1 {
+  margin-bottom: 0.25rem !important;
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem !important;
+}
+
+.mb-3 {
+  margin-bottom: 0.75rem !important;
+}
+
+.mb-4 {
+  margin-bottom: 1rem !important;
+}
+
+.mb-5 {
+  margin-bottom: 1.25rem !important;
+}
+
+.pb-1 {
+  padding-bottom: 0.25rem !important;
+}
+
+.pb-2 {
+  padding-bottom: 0.5rem !important;
+}
+
+.pb-3 {
+  padding-bottom: 0.75rem !important;
+}
+
+.pb-4 {
+  padding-bottom: 1rem !important;
+}
+
+.pb-5 {
+  padding-bottom: 1.25rem !important;
+}
+
+.form-md {
+  max-width: 500px;
+  width: 100%;
+}
+
+.form {
+  background-color: #fafafa;
+  padding: 2em;
+  border: 1px solid #dddddd;
+}
+
+.label {
+  margin-bottom: 0.5em;
+}
+
+.form-input {
+  width: 95.5%;
+  padding: 0.353em 2% !important;
+  line-height: normal;
+  height: 27px;
+  border: 1px solid #999999;
+}
+
+.form-input::-moz-placeholder {
+  color: #999999;
+}
+
+.form-input::placeholder {
+  color: #999999;
+}
+
+.form-white {
+  background-color: #ffffff;
+}
+
+.form-white .label {
+  color: #333333;
+}
+
+.page-title {
+  font-size: 30px;
+  font-weight: 600;
+  display: block;
+}
+
+.box-shadow-light {
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.text-center {
+  text-align: center;
+}
+
+.img-sizing .max-img-size {
+  height: 80px;
+  max-width: 80px;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.img-sizing .max-img-width {
+  max-width: 30% !important;
+}/*# sourceMappingURL=webjooll.css.map */

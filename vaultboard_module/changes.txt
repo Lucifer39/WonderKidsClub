@@ -1,0 +1,85 @@
+conn.php:
+
+<?php
+
+function makeConnection(){
+    $host = 'localhost';
+    $username = 'u897928492_wonderkids';
+    $password = '#2P[8SKRNyPp';
+    $dbname = 'u897928492_wonderkids';
+
+    $conn = mysqli_connect($host, $username, $password, $dbname);
+
+    if (!$conn) {
+        die("Connection failed: " . mysqli_connect_error());
+    }
+    return $conn;
+}
+
+?>
+
+navigation.php:
+
+<?php 
+    define('GLOBAL_URL', 'https://plus.wonderkids.club/');
+    define('ROOT_FOLDER', $_SERVER["DOCUMENT_ROOT"]."/vaultboard_module/");
+    define('REDIRECT_URL', 'https://plus.wonderkids.club/');
+    define('SECRET_KEY', "Saurabh@1@#");
+    define('ROOT_DOMAIN_URL', "https://wonderkids.club/");
+?>
+
+Local:
+
+conn.php:
+
+<?php
+
+function makeConnection(){
+    $host = 'localhost';
+    $username = 'root';
+    $password = 'password';
+    $dbname = 'edtech';
+    $port = 3306;
+
+    $conn = mysqli_connect($host, $username, $password, $dbname, $port);
+
+    if (!$conn) {
+        die("Connection failed: " . mysqli_connect_error());
+    }
+    return $conn;
+}
+
+?>
+
+navigation.php:
+
+<?php 
+    define('GLOBAL_URL', 'http://localhost/vaultboard_module/');
+    define('ROOT_FOLDER', $_SERVER["DOCUMENT_ROOT"]."/vaultboard_module/");
+    define('REDIRECT_URL', 'http://localhost/vaultboard_module/');
+    define('SECRET_KEY', "Saurabh@1@#");
+    define('ROOT_DOMAIN_URL', "http://edtech/");
+?>
+
+queries:
+ALTER TABLE `leaderboard` 
+RENAME TO  `leaderboard_words` ;
+
+ALTER TABLE `users` 
+ADD COLUMN `avatar` VARCHAR(45) NULL DEFAULT NULL AFTER `updated_at`,
+ADD COLUMN `name` VARCHAR(255) NULL DEFAULT NULL AFTER `avatar`,
+ADD UNIQUE INDEX `name_UNIQUE` (`name` ASC) VISIBLE;
+;
+
+ALTER TABLE `edtech`.`subject_class` 
+ADD COLUMN `vocab_class` VARCHAR(45) NULL AFTER `updated_at`;
+
+UPDATE `edtech`.`subject_class` SET `vocab_class` = 'Nursery' WHERE (`id` = '1');
+UPDATE `edtech`.`subject_class` SET `vocab_class` = 'Prep' WHERE (`id` = '2');
+UPDATE `edtech`.`subject_class` SET `vocab_class` = '1' WHERE (`id` = '3');
+UPDATE `edtech`.`subject_class` SET `vocab_class` = '2' WHERE (`id` = '4');
+UPDATE `edtech`.`subject_class` SET `vocab_class` = '3' WHERE (`id` = '5');
+UPDATE `edtech`.`subject_class` SET `vocab_class` = '4' WHERE (`id` = '6');
+UPDATE `edtech`.`subject_class` SET `vocab_class` = '5' WHERE (`id` = '7');
+
+

@@ -1,0 +1,12 @@
+:root {
+  --white: #ffffff;
+  --black: #4b4b4b;
+  --feather-green: #58cc02;
+  --mask-green: #89e219;
+  --red: #ff3333;
+}
+
+.container {
+  position: absolute;
+  top: 100px;
+}
